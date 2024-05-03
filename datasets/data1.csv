@@ -1,0 +1,1457 @@
+mark,model,description,fuel,km,year,gearbox,isofix,led,cruise_control,bluetooth,auto_clim,rear_cam,rear_rad,price
+CITROEN,C3,PureTech 82ch Shine S&S E6.d,Essence /,17 860 km,/ 2019 /,Manuelle,1,0,1,0,1,0,1,12 799 €
+RENAULT,Zoe,Zen charge normale R110 Achat Intégral - 20,Electrique /,50 065 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,12 799 €
+PEUGEOT,3008,HYBRID4 300ch GT Pack e-EAT8,Hybride /,14 456 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,12 799 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Style EAT8,Essence /,31 658 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,12 799 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Expression +,Gpl /,13 344 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,12 799 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2 - 20,Diesel /,29 813 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,12 799 €
+CITROEN,C4,BlueHDi 130ch S&S Feel Pack EAT8 120g,Diesel /,69 947 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,12 799 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S Allure Business EAT8,Diesel /,161 205 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,12 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack 118g,Essence /,14 031 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,12 799 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,49 025 km,/ 2021 /,Automatique,1,1,0,1,1,1,1,12 799 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,34 134 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,12 799 €
+PEUGEOT,3008,1.2 PureTech 130ch E6.c Allure S&S EAT8,Essence /,68 813 km,/ 2019 /,Automatique,1,0,1,1,1,0,1,12 799 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Intens EDC,Diesel /,56 792 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,12 799 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine BVM,Essence /,15 267 km,/ 2023 /,Manuelle,0,0,1,1,1,0,1,12 799 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Initiale Paris,Hybride R /,24 655 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,12 799 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,19 403 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,12 799 €
+RENAULT,Megane,1.5 Blue dCi 115ch Evolution EDC -23,Diesel /,11 650 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,12 799 €
+RENAULT,Zoe,Life charge normale R110 Achat Intégral - 20,Electrique /,38 550 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,12 799 €
+RENAULT,Captur,1.0 TCe 100ch Evolution GPL,Gpl /,18 242 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure,Essence /,34 020 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,12 799 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,13 272 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,12 799 €
+MINI,Mini,Cooper S 178ch Premium,Essence /,26 549 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,12 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure EAT8,Essence /,9 936 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,12 799 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,15 462 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,12 799 €
+DACIA,Duster,1.5 Blue dCi 115ch Extreme 4x2,Diesel /,29 220 km,/ 2022 /,Manuelle,1,0,1,1,1,1,1,12 799 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,26 655 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,12 799 €
+RENAULT,Megane,E-Tech Electric EV40 130ch Equilibre standard charge,Electrique /,11 000 km,/ 2022 /,Automatique,1,1,1,1,0,1,1,12 799 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,11 497 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+PEUGEOT,308,1.2 PureTech 130ch S&S Allure EAT8 7cv,Essence /,23 145 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,12 799 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2,Diesel /,81 305 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,12 799 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S Active Pack EAT8,Diesel /,41 411 km,/ 2022 /,Automatique,1,1,1,0,1,0,1,24 299 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,17 663 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,24 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure EAT8,Essence /,14 920 km,/ 2023 /,Automatique,0,1,1,1,1,0,1,24 299 €
+MINI,Mini,Cooper S 178ch Edition Camden BVA7,Essence /,33 796 km,/ 2021 /,Automatique,0,1,1,1,1,0,1,24 299 €
+MINI,Mini,One 102ch Edition Greenwich BVA7,Essence /,40 367 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,24 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure 118g,Essence /,11 103 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,24 299 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,6 566 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,24 299 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,29 902 km,/ 2020 /,Automatique,1,1,0,1,1,1,1,24 299 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack,Essence /,11 800 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,24 299 €
+PEUGEOT,3008,HYBRID 225ch Allure Pack e-EAT8,Hybride /,33 205 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,24 299 €
+RENAULT,Twingo,1.0 SCe 65ch Life - 20,Essence /,52 427 km,/ 2020 /,Manuelle,1,0,0,0,0,0,0,24 299 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Business -21N,Hybride /,31 109 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,24 299 €
+RENAULT,Captur,1.0 TCe 90ch Intens -21,Essence /,38 779 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,24 299 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Essentiel,Gpl /,33 803 km,/ 2021 /,Manuelle,1,1,1,1,0,0,0,24 299 €
+NISSAN,Qashqai,1.3 Mild Hybrid 158ch Tekna Xtronic,Essence M /,42 923 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,24 299 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Intens -21,Hybride /,37 774 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,24 299 €
+DACIA,Duster,1.0 ECO-G 100ch Prestige 4x2 - E6U,Gpl /,44 304 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,24 299 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,5 645 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,24 299 €
+NISSAN,Qashqai,1.5 dCi 115ch Tekna 2019 Euro6-EVAP,Diesel /,44 853 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,24 299 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,12 517 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,24 299 €
+PEUGEOT,3008,1.2 PureTech 130ch GT Line S&S EAT8 6cv,Essence /,56 510 km,/ 2019 /,Automatique,0,1,1,1,1,0,1,24 299 €
+CITROEN,C5 Aircross,Hybrid rechargeable 225ch C-Series ë-EAT8,Hybride R /,28 631 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,24 299 €
+CITROEN,C4,Moteur électrique 136ch (100 kW) Feel Pack Automatique,Electrique /,29 252 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,24 299 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,7 826 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,24 299 €
+RENAULT,Clio,1.0 TCe 100ch Intens,Essence /,37 270 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,24 299 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno Fast Track,Essence M /,4 760 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,24 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,37 700 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,24 299 €
+RENAULT,Zoe,Business charge normale R90 MY19,Electrique /,14 000 km,/ 2019 /,Automatique,1,0,1,1,1,0,0,24 299 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,14 197 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,24 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,15 043 km,/ 2023 /,Manuelle,0,0,1,1,1,0,1,24 299 €
+RENAULT,Zoe,E-Tech Life charge normale R110 Achat Intégral - 21,Electrique /,11 433 km,/ 2021 /,Automatique,1,1,1,0,0,0,0,17 499 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S GT EAT8,Essence /,18 252 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,17 499 €
+RENAULT,Clio,1.3 TCe 140ch Techno,Essence /,4 635 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,17 499 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,7 730 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,17 499 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure 5cv,Essence /,25 362 km,/ 2021 /,Manuelle,1,1,1,1,1,0,0,17 499 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens EDC,Essence /,54 657 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,17 499 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,58 476 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,17 499 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,5 412 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,17 499 €
+RENAULT,Zoe,E-Tech Life charge normale R110 Achat Intégral - 21,Electrique /,14 925 km,/ 2021 /,Automatique,1,1,1,0,0,0,0,17 499 €
+PEUGEOT,208,e-208 136ch Allure,Electrique /,15 990 km,/ 2021 /,Automatique,0,1,1,1,1,0,1,17 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,18 980 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,17 499 €
+PEUGEOT,208,e-208 136ch Active Business,Electrique /,18 176 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,17 499 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,8 552 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,17 499 €
+MINI,Mini,Cooper 136ch Edition Greenwich,Essence /,26 365 km,/ 2020 /,Manuelle,0,1,1,1,1,0,1,17 499 €
+DACIA,Sandero,1.0 SCe 75ch City+,Essence /,46 129 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,17 499 €
+CITROEN,C3,PureTech 110ch Feel S&S E6.d-TEMP,Essence /,62 000 km,/ 2018 /,Manuelle,1,0,1,0,0,0,0,17 499 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2,Diesel /,76 026 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,17 499 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,16 358 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,17 499 €
+PEUGEOT,2008,e-2008 136ch Roadtrip,Electrique /,42 814 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,17 499 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active,Essence /,26 742 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,17 499 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,1 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,17 499 €
+PEUGEOT,3008,HYBRID4 300ch GT e-EAT8,Hybride /,49 796 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,17 499 €
+RENAULT,Clio,1.5 Blue dCi 85ch Business,Diesel /,51 556 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,17 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8 7cv,Essence /,72 400 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,17 499 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,4 995 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,17 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,27 255 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,17 499 €
+RENAULT,Captur,1.0 TCe 90ch Intens -21,Essence /,20 410 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,17 499 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure 5cv,Essence /,61 673 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,17 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,45 303 km,/ 2021 /,Manuelle,1,0,1,1,1,0,1,17 499 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active,Essence /,5 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,17 499 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Active,Essence /,32 919 km,/ 2021 /,Manuelle,1,0,1,1,1,0,1,21 499 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta,Essence M /,29 862 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,21 499 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Business -21N,Hybride /,31 876 km,/ 2022 /,Automatique,1,1,1,1,0,0,1,21 499 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine EAT6,Essence /,33 700 km,/ 2022 /,Automatique,0,0,1,1,1,0,1,21 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Roadtrip 118g,Essence /,29 404 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,21 499 €
+RENAULT,Twingo,E-Tech Electric Life R80 Achat Intégral - 21MY,Electrique /,20 067 km,/ 2021 /,Automatique,1,0,0,0,0,0,0,21 499 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active Business,Essence /,25 204 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,21 499 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,58 103 km,/ 2021 /,Manuelle,1,1,1,1,1,1,1,21 499 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,19 133 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,21 499 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,5 614 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,21 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Business,Essence /,14 244 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,21 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active,Essence /,55 679 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,21 499 €
+RENAULT,Arkana,1.6 E-Tech 145ch Intens -21B,Hybride /,27 365 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,21 499 €
+PEUGEOT,2008,e-2008 136ch Allure Pack,Electrique /,31 250 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,21 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure 124g,Essence /,45 763 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,21 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8 7cv,Essence /,57 646 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,21 499 €
+PEUGEOT,3008,HYBRID 225ch GT e-EAT8,Hybride /,43 164 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,21 499 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Intens,Hybride R /,47 855 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,21 499 €
+PEUGEOT,308,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,43 370 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,21 499 €
+DACIA,Duster,1.0 ECO-G 100ch Prestige 4x2 - E6U,Gpl /,44 929 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,21 499 €
+PEUGEOT,2008,1.2 PureTech 110ch Allure S&S EAT6,Essence /,64 336 km,/ 2016 /,Automatique,1,1,1,1,1,0,0,21 499 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Allure EAT8,Essence /,39 377 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,21 499 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Pack 121-122g,Essence /,17 434 km,/ 2022 /,Manuelle,0,0,1,1,1,1,1,21 499 €
+RENAULT,Megane,1.3 TCe 140ch FAP Business EDC,Essence /,48 152 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,21 499 €
+RENAULT,Clio,1.0 TCe 90ch RS Line -21N,Essence /,21 364 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,21 499 €
+RENAULT,Zoe,Team Rugby charge normale R110 Achat Intégral,Electrique /,19 517 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,21 499 €
+NISSAN,Qashqai,1.5 dCi 115ch Business Edition DCT 2019 Euro6-EVAP,Diesel /,57 698 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,21 499 €
+RENAULT,Twingo,1.0 SCe 65ch Limited E6D-Full,Essence /,27 336 km,/ 2021 /,Manuelle,1,0,0,1,0,0,1,21 499 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S Allure EAT8,Diesel /,18 758 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,21 499 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Techno super charge,Electrique /,7 357 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,21 499 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,15 937 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+RENAULT,Clio,1.0 TCe 90ch Limited -21,Essence /,41 757 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,19 980 €
+RENAULT,Captur,1.0 TCe 100ch Business GPL -21,Gpl /,39 295 km,/ 2021 /,Manuelle,1,1,1,1,0,1,1,19 980 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active,Essence /,31 476 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,19 980 €
+RENAULT,Megane,1.3 TCe 140ch Techno EDC -23,Essence /,5 427 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,19 980 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2 E6U,Diesel /,49 288 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,19 980 €
+PEUGEOT,308,e-308 156ch GT,Electrique /,20 869 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,19 980 €
+RENAULT,Clio,0.9 TCe 90ch energy Intens 5p,Essence /,68 335 km,/ 2016 /,Manuelle,1,1,1,1,1,0,0,19 980 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,4 759 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure,Essence /,31 859 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,38 566 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,34 658 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,8 908 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,19 980 €
+RENAULT,Arkana,1.6 E-Tech 145ch RS Line -21B,Hybride /,38 157 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,19 980 €
+CITROEN,C5 Aircross,Hybrid rechargeable 180ch Feel Pack ë-EAT8,Hybride R /,16 056 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,19 980 €
+PEUGEOT,3008,1.2 PureTech 130ch E6.c Allure S&S,Essence /,54 270 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,19 980 €
+RENAULT,Twingo,E-Tech Electric Equilibre R80 Achat Intégral,Electrique /,12 551 km,/ 2022 /,Automatique,1,0,0,1,1,0,0,19 980 €
+PEUGEOT,2008,e-2008 136ch Active Pack,Electrique /,29 720 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,19 980 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,31 257 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,19 980 €
+RENAULT,Zoe,Life charge normale R110,Electrique /,24 315 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,19 980 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure Business,Essence /,46 775 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,41 000 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,19 980 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,9 864 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,27 051 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,43 952 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,11 989 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,30 165 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+CITROEN,C4,BlueHDi 110ch S&S Feel,Diesel /,103 972 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,19 980 €
+DACIA,Sandero,1.0 TCe 110ch Stepway Expression +,Essence /,11 097 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,19 980 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,14 990 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,19 980 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Intens -21,Hybride /,39 304 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,22 299 €
+PEUGEOT,208,e-208 136ch Active Business,Electrique /,44 585 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,22 299 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,6 022 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 299 €
+RENAULT,Clio,1.5 Blue dCi 100ch Evolution,Diesel /,42 567 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,22 299 €
+RENAULT,Zoe,Life charge normale R110 location de batterie,Electrique /,14 318 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,22 299 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Business -21,Hybride /,38 106 km,/ 2022 /,Automatique,1,1,1,1,0,1,1,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure EAT8,Essence /,1 658 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure Business 118g,Essence /,20 801 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,22 299 €
+PEUGEOT,208,1.6 BlueHDi 100ch S&S Premium Pack Euro6c,Diesel /,86 012 km,/ 2019 /,Manuelle,0,0,1,1,0,0,0,22 299 €
+RENAULT,Megane,1.3 TCe 140ch FAP Business EDC -21B,Essence /,46 307 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,22 299 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine E6.d,Diesel /,66 327 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,22 299 €
+DACIA,Sandero,1.0 SCe 75ch Urban Stepway - 20,Essence /,24 800 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,19 179 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,22 299 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,12 792 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,22 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S C-Series 123g,Essence /,10 509 km,/ 2022 /,Manuelle,0,0,1,1,1,0,0,22 299 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,20 187 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,22 299 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S Allure Pack EAT8 125g,Diesel /,22 915 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,22 299 €
+RENAULT,Clio,1.3 TCe 130ch FAP Initiale Paris EDC,Essence /,39 731 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,22 299 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Initiale Paris,Hybride R /,47 185 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,22 299 €
+RENAULT,Zoe,Edition One charge normale R90,Electrique /,40 157 km,/ 2018 /,Automatique,1,0,1,1,1,1,0,22 299 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,8 039 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure Pack,Essence /,17 589 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 299 €
+RENAULT,Clio,1.0 TCe 90ch Business -21,Essence /,29 119 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,22 299 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno Fast Track,Essence M /,6 939 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 299 €
+PEUGEOT,3008,1.5 BlueHDi 130ch E6.c GT Line S&S EAT8,Diesel /,60 000 km,/ 2019 /,Automatique,0,1,1,1,1,0,1,22 299 €
+RENAULT,Captur,1.0 TCe 90ch Business -21,Essence /,19 485 km,/ 2022 /,Manuelle,1,1,1,1,0,1,1,22 299 €
+PEUGEOT,208,e-208 136ch Style,Electrique /,12 247 km,/ 2022 /,Automatique,0,1,1,1,1,0,1,22 299 €
+RENAULT,Clio,1.6 E-Tech 140ch Première Edition,Hybride /,29 414 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,22 299 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,65 302 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Business EAT8,Essence /,59 581 km,/ 2021 /,Automatique,1,0,1,1,0,0,1,22 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,5 897 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,15 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,39 500 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,15 499 €
+RENAULT,Captur,1.5 dCi 90ch energy Business Euro6c,Diesel /,63 199 km,/ 2019 /,Manuelle,1,0,1,1,0,0,1,15 499 €
+RENAULT,Zoe,Business charge normale R90 MY19,Electrique /,21 547 km,/ 2019 /,Automatique,1,0,1,1,1,0,0,15 499 €
+RENAULT,Clio,1.6 E-Tech 140ch Zen,Hybride /,39 298 km,/ 2021 /,Automatique,1,1,1,1,0,0,0,15 499 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c Crossway S&S EAT6 6cv,Essence /,37 380 km,/ 2019 /,Automatique,0,1,1,0,1,1,1,15 499 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT Line,Diesel /,54 746 km,/ 2021 /,Manuelle,0,1,1,1,1,0,1,15 499 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,12 540 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,15 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,8 444 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,15 499 €
+PEUGEOT,3008,HYBRID 225ch Allure Pack e-EAT8,Hybride /,55 691 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,15 499 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta + Pack Design,Essence M /,35 733 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,15 499 €
+RENAULT,Twingo,0.9 TCe 95ch Intens - 20,Essence /,43 266 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,15 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Business,Essence /,26 400 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,15 499 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,11 090 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,15 499 €
+CITROEN,C3,1.2 PureTech 110ch S&S graphic,Essence /,49 003 km,/ 2020 /,Manuelle,0,0,1,1,1,0,1,15 499 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,12 970 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,15 499 €
+RENAULT,Twingo,1.0 SCe 65ch Equilibre,Essence /,25 507 km,/ 2022 /,Manuelle,1,0,0,1,1,0,0,12 799 €
+CITROEN,C3 Aircross,PureTech 130ch S&S Shine Pack EAT6,Essence /,29 541 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,12 799 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,24 788 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,12 799 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S Allure EAT8,Diesel /,100 km,/ 2024 /,Automatique,1,1,1,0,1,1,1,12 799 €
+MINI,Mini,Cooper 136ch Edition Greenwich BVA7,Essence /,19 900 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,12 799 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,7 079 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Pack,Essence /,37 452 km,/ 2022 /,Manuelle,0,0,1,1,1,0,0,12 799 €
+PEUGEOT,208,e-208 136ch Style,Electrique /,24 704 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,12 799 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,26 794 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,12 799 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,79 240 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,12 799 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Business EDC,Essence M /,36 967 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,12 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,12 047 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens,Essence /,44 715 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,12 799 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,14 730 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+PEUGEOT,2008,e-2008 136ch GT,Electrique /,30 685 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,12 799 €
+RENAULT,Arkana,1.6 E-Tech 145ch RS Line -21B,Hybride /,41 095 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,12 799 €
+RENAULT,Zoe,Intens charge normale R110 Achat Intégral - 20,Electrique /,57 271 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,12 799 €
+RENAULT,Clio,1.0 TCe 90ch Business -21N,Essence /,23 654 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8 7cv,Essence /,47 500 km,/ 2021 /,Automatique,1,1,1,1,1,0,0,12 799 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,52 460 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,12 799 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Business,Essence /,41 536 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,12 799 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,19 049 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+NISSAN,Leaf,109ch 30kWh Acenta,Electrique /,69 158 km,/ 2016 /,Automatique,1,0,1,1,1,0,0,12 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style EAT8,Essence /,14 846 km,/ 2023 /,Automatique,1,1,1,1,0,0,1,12 799 €
+RENAULT,Twingo,0.9 TCe 95ch Zen,Essence /,18 647 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,12 799 €
+RENAULT,Zoe,Life Achat INTEGRAL charge normale R110 4cv,Electrique /,22 457 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,12 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,15 258 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,12 799 €
+RENAULT,Twingo,1.0 SCe 65ch Urban Night,Essence /,15 742 km,/ 2022 /,Manuelle,1,0,1,1,1,1,1,12 799 €
+NISSAN,Leaf,150ch 40kWh Acenta 21.5,Electrique /,21 995 km,/ 2021 /,Automatique,1,0,1,1,1,1,0,12 799 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,7 809 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,12 799 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack,Essence /,7 613 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,22 999 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,10 483 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,22 999 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Business,Essence /,28 427 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,22 999 €
+RENAULT,Zoe,Intens charge normale R110 Achat Intégral - 20,Electrique /,37 580 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,22 999 €
+PEUGEOT,308,1.2 PureTech 110ch S&S Active Pack,Essence /,26 719 km,/ 2021 /,Manuelle,1,0,1,1,1,0,1,22 999 €
+RENAULT,Captur,1.3 TCe 130ch FAP Business - 20,Essence /,40 394 km,/ 2020 /,Manuelle,1,1,1,1,0,1,1,22 999 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S GT EAT8 125g,Diesel /,64 803 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,22 999 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Active Pack EAT8,Essence /,5 019 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,22 999 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S GT Line EAT8 7cv,Diesel /,47 992 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,22 999 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Intens EDC - 21,Diesel /,62 803 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,22 999 €
+RENAULT,Twingo,Electric Life R80 Achat Intégral,Electrique /,21 991 km,/ 2021 /,Automatique,1,0,0,0,0,0,0,22 999 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,14 203 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,22 999 €
+RENAULT,Twingo,1.0 SCe 65ch Zen - 21,Essence /,26 139 km,/ 2021 /,Manuelle,1,0,0,1,1,0,0,22 999 €
+RENAULT,Twingo,1.0 SCe 65ch Zen - 21,Essence /,34 481 km,/ 2022 /,Manuelle,1,0,0,1,1,0,0,22 999 €
+DACIA,Sandero,0.9 TCe 90ch Stepway Easy-R,Essence /,30 507 km,/ 2020 /,Automatique,1,0,1,1,0,0,1,22 999 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,8 627 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,22 999 €
+RENAULT,Arkana,1.6 E-Tech 145ch RS Line -21B,Hybride /,28 480 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,22 999 €
+PEUGEOT,208,1.2 PureTech 130ch S&S Allure EAT8,Essence /,53 538 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,22 999 €
+RENAULT,Arkana,1.3 TCe mild hybrid 140ch RS Line EDC -22,Essence M /,20 356 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,22 999 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Evolution,Hybride /,15 800 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,22 999 €
+CITROEN,C3 Aircross,PureTech 82ch Feel,Essence /,52 950 km,/ 2018 /,Manuelle,1,0,1,1,0,0,0,22 999 €
+RENAULT,Twingo,E-Tech Electric Equilibre R80 Achat Intégral,Electrique /,11 094 km,/ 2022 /,Automatique,1,0,0,1,1,0,0,22 999 €
+PEUGEOT,208,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,4 465 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,22 999 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,18 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,22 999 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort -22,Gpl /,33 905 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,22 999 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,5 571 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 999 €
+RENAULT,Clio,1.3 TCe 140ch Techno,Essence /,10 897 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 999 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,24 708 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,22 999 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel E6.d 6cv,Essence /,56 731 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,22 999 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Pack EAT6,Essence /,13 050 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,22 999 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S C-Series E6.d,Diesel /,11 310 km,/ 2023 /,Manuelle,0,0,1,1,1,0,0,15 980 €
+CITROEN,C3,1.2 PureTech 110ch S&S C-Series 120-121g,Essence /,13 451 km,/ 2023 /,Manuelle,0,0,1,1,1,0,0,15 980 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,5 575 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,15 980 €
+RENAULT,Zoe,Business charge normale R110 - 20,Electrique /,41 526 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,15 980 €
+RENAULT,Clio,1.0 TCe 90ch Business -21N,Essence /,18 530 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,15 980 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,13 223 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,15 980 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,21 093 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,15 980 €
+MINI,Mini,Cooper SE 184ch Yours BVA,Electrique /,54 570 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,15 980 €
+RENAULT,Clio,1.0 TCe 100ch Intens,Essence /,49 458 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,15 980 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure EAT8,Essence /,18 165 km,/ 2022 /,Automatique,0,1,1,1,1,0,1,15 980 €
+PEUGEOT,308,1.2 PureTech 130ch E6.3 S&S Allure,Essence /,60 512 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,15 980 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT EAT8,Essence /,3 068 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,15 980 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Evolution,Hybride /,13 000 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,15 980 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Business EDC,Essence M /,25 032 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,15 980 €
+RENAULT,Clio,1.0 SCe 65ch Evolution,Essence /,19 121 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,15 980 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Business -21N,Hybride /,40 539 km,/ 2022 /,Automatique,1,1,1,1,0,0,1,15 980 €
+NISSAN,Qashqai,1.3 Mild Hybrid 158ch N-Style Xtronic + roue de secours,Essence M /,56 285 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,15 980 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT EAT8,Essence /,14 284 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,15 980 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Style EAT8,Essence /,16 188 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,15 980 €
+PEUGEOT,208,1.2 PureTech 130ch S&S Allure EAT8,Essence /,51 500 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,15 980 €
+RENAULT,Clio,1.5 dCi 90ch energy Air MédiaNav E6C,Diesel /,123 177 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,15 980 €
+PEUGEOT,2008,1.2 PureTech 82ch Active,Essence /,53 239 km,/ 2017 /,Manuelle,1,1,1,0,0,0,0,15 980 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active BVM6 Auto-Ecole,Diesel /,32 699 km,/ 2022 /,Manuelle,1,0,1,1,0,0,0,15 980 €
+RENAULT,Twingo,E-Tech Electric Intens R80 Achat Intégral - 21MY,Electrique /,37 807 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,15 980 €
+FORD,Fiesta,1.25 60ch Ambiente 5p,Essence /,83 000 km,/ 2013 /,Manuelle,1,0,0,0,0,0,0,15 980 €
+RENAULT,Scenic,1.2 TCe 130ch energy Intens,Essence /,57 897 km,/ 2017 /,Manuelle,0,1,1,1,1,1,1,15 980 €
+PEUGEOT,208,1.2 PureTech 82ch E6.2 Evap Signature 5p,Essence /,57 224 km,/ 2019 /,Manuelle,1,0,1,0,0,0,1,15 980 €
+LAND-ROVER,Range Rover Sport,3.0 P510e 510ch PHEV Autobiography,Hybride R /,15 000 km,/ 2023 /,Automatique,0,0,1,1,1,0,1,15 980 €
+RENAULT,Clio,1.5 Blue dCi 85ch Business,Diesel /,91 719 km,/ 2019 /,Manuelle,1,1,1,1,0,0,1,15 980 €
+SKODA,Fabia,1.0 MPI 60ch Drive 125 ans Euro6d-T 3cv,Essence /,42 200 km,/ 2021 /,Manuelle,1,0,1,1,0,1,1,15 980 €
+RENAULT,Zoe,Intens charge normale Type 2,Electrique /,55 516 km,/ 2015 /,Automatique,1,0,1,1,1,1,0,7 979 €
+OPEL,Mokka,1.2 Turbo 130ch GS Line,Essence /,7 275 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,7 979 €
+BMW,Serie 1,118dA 150ch M Sport 8cv,Diesel /,78 500 km,/ 2021 /,Automatique,0,1,1,1,1,1,0,7 979 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Business 131g,Diesel /,82 520 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,7 979 €
+RENAULT,Captur,1.0 TCe 90ch Evolution,Essence /,4 500 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,7 979 €
+BMW,Serie 5 Touring,520dA xDrive 190ch M Sport Steptronic,Diesel M /,79 061 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,7 979 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT,Essence /,11 200 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,7 979 €
+FORD,Transit Custom,300 L2H1 2.0 EcoBlue 130 Hybrid Trend Business,Diesel M /,300 km,/ 2022 /,Manuelle,0,0,1,1,0,0,1,7 979 €
+PEUGEOT,2008,1.2 PureTech 110ch Urban Cross S&S,Essence /,79 068 km,/ 2016 /,Manuelle,1,1,1,1,0,0,0,7 979 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway,Gpl /,80 546 km,/ 2020 /,Manuelle,1,0,1,1,0,0,1,7 979 €
+SUZUKI,Across,2.5 Hybride Rechargeable 306ch Pack 2023,Hybride R /,100 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,7 979 €
+TOYOTA,Yaris,120 VVT-i Dynamic 5p MY22,Essence /,15 675 km,/ 2023 /,Manuelle,1,0,1,1,0,1,0,7 979 €
+VOLKSWAGEN,T-Roc,2.0 TSI 190ch Carat Exclusive 4Motion DSG7 Euro6d-T,Essence /,68 574 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,7 979 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,11 982 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,7 979 €
+VOLVO,Xc40,D3 AdBlue 150ch Inscription Geartronic 8,Diesel /,94 247 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,7 979 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S GT Pack EAT8,Essence /,34 865 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,7 979 €
+RENAULT,Clio,1.6 E-Tech 140ch Business -21,Hybride /,43 337 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,7 979 €
+TOYOTA,Yaris,116h Design 5p MY21,Hybride /,20 786 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,7 979 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Pack,Essence /,1 900 km,/ 2022 /,Manuelle,0,0,1,1,1,0,0,7 979 €
+MERCEDES,Classe A Berline,180d 116ch AMG Line 8G-DCT,Diesel /,40 679 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,7 979 €
+VOLKSWAGEN,Tiguan,2.0 TDI 140ch BlueMotion Technology FAP R Exclusive,Diesel /,103 492 km,/ 2014 /,Manuelle,0,0,1,1,1,1,1,7 979 €
+TOYOTA,Yaris,116h Collection MC24,Hybride /,7 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,7 979 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S C-Series E6.d,Diesel /,14 321 km,/ 2023 /,Manuelle,0,0,1,1,1,0,0,7 979 €
+RENAULT,Captur,1.5 dCi 90ch energy Intens EDC,Diesel /,77 593 km,/ 2017 /,Automatique,1,1,1,1,1,0,1,7 979 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,2 596 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,7 979 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,40 142 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,7 979 €
+CITROEN,C3 Aircross,BlueHDi 120ch S&S Feel Pack Business EAT6,Diesel /,99 870 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,7 979 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active,Diesel /,34 157 km,/ 2022 /,Manuelle,1,0,1,1,0,0,0,7 979 €
+RENAULT,Clio,1.0 TCe 90ch Intens X-Tronic -21N,Essence /,49 246 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,7 979 €
+RENAULT,Clio,1.5 Blue dCi 85ch AIR,Diesel /,21 371 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,7 979 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack,Essence /,12 182 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,21 999 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Pack 121-122g,Essence /,17 184 km,/ 2022 /,Manuelle,0,0,1,1,1,1,1,21 999 €
+PEUGEOT,2008,1.5 BlueHDi 100ch E6.c Allure S&S BVM5 86g,Diesel /,94 517 km,/ 2019 /,Manuelle,1,1,1,0,1,0,1,21 999 €
+LEXUS,Ux,250h 2WD Luxe,Hybride /,6 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,21 999 €
+VOLKSWAGEN,Golf Sportsvan,1.5 TSI EVO 130ch BlueMotion Technology Confortline Euro6d-T,Essence /,43 376 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,21 999 €
+RENAULT,Twingo,E-Tech Electric Zen R80 Achat Intégral - 21MY,Electrique /,18 221 km,/ 2022 /,Automatique,1,0,0,1,1,0,0,21 999 €
+BMW,Serie 3 Touring,320dA MH 190ch M Sport,Diesel M /,107 111 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,21 999 €
+PEUGEOT,208,e-208 156ch GT,Electrique /,500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,21 999 €
+SUZUKI,Swift,1.2 Dualjet Hybrid 83ch Privilège,Essence M /,64 012 km,/ 2020 /,Manuelle,1,1,1,1,0,1,1,21 999 €
+MERCEDES,Classe A,180 d 116ch Style Line 7G-DCT,Diesel /,92 755 km,/ 2019 /,Automatique,1,1,1,1,1,1,0,21 999 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Intens 112g,Diesel /,54 295 km,/ 2019 /,Manuelle,0,1,1,1,1,1,1,21 999 €
+CITROEN,C5 Aircross,PureTech 130ch S&S Live E6.d 145g,Essence /,61 781 km,/ 2020 /,Manuelle,1,0,1,1,1,0,0,21 999 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,50 252 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,21 999 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8 7cv,Essence /,34 639 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,21 999 €
+PEUGEOT,308,1.2 Puretech 130ch Allure S&S EAT6 5p,Essence /,35 634 km,/ 2016 /,Automatique,1,1,1,0,1,1,0,21 999 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure,Essence /,26 541 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,21 999 €
+FORD,Puma,1.0 EcoBoost 125ch mHEV ST-Line X,Essence M /,37 679 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,21 999 €
+MERCEDES,Eqs,580 544ch AMG Line 4Matic,Electrique /,990 km,/ 2023 /,Automatique,0,1,1,1,1,0,0,21 999 €
+RENAULT,Clio,1.3 TCe 140ch Techno,Essence /,11 285 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,21 999 €
+MERCEDES,Classe B,250 e 163+109ch AMG Line 8G-DCT,Hybride R /,8 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,21 999 €
+MERCEDES,Classe A,180 Sensation 7G-DCT,Essence /,52 294 km,/ 2018 /,Automatique,1,1,1,1,1,1,0,21 999 €
+CITROEN,Berlingo Van,M 800kg Electrique 136ch Batterie 50 kWh,Electrique /,30 km,/ 2022 /,Automatique,0,0,1,1,0,0,0,21 999 €
+TOYOTA,Prius,122h Lounge,Hybride /,57 391 km,/ 2017 /,Automatique,0,0,1,1,1,1,1,21 999 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT Line 124g,Essence /,39 517 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,21 999 €
+SUZUKI,Swift,1.2 Dualjet Hybrid 83ch Privilège,Essence M /,48 985 km,/ 2020 /,Manuelle,1,1,1,1,0,1,1,21 999 €
+RENAULT,Megane Estate,1.5 Blue dCi 115ch Intens -21N,Diesel /,16 417 km,/ 2023 /,Manuelle,0,0,1,1,1,1,1,21 999 €
+RENAULT,Twingo,E-Tech Electric Zen R80 Achat Intégral - 21MY,Electrique /,27 484 km,/ 2021 /,Automatique,1,0,0,1,1,0,0,21 999 €
+RENAULT,Clio,1.0 TCe 90ch Limited -21N,Essence /,46 555 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,21 999 €
+RENAULT,Scenic,1.3 TCe 140ch energy Intens,Essence /,50 193 km,/ 2018 /,Manuelle,0,1,1,1,1,1,1,21 999 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch Premiere Edition,Essence M /,45 416 km,/ 2021 /,Manuelle,0,0,1,1,1,1,0,21 999 €
+RENAULT,Scenic,1.3 TCe 140ch FAP Intens EDC,Essence /,16 000 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,22 277 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S Allure EAT8,Diesel /,6 000 km,/ 2024 /,Automatique,1,1,1,1,1,0,1,22 277 €
+PEUGEOT,108,VTi 72 Style S&S 4cv 3p,Essence /,51 858 km,/ 2021 /,Manuelle,1,0,0,1,0,0,0,22 277 €
+BMW,Serie 2 Active Tourer,218iA 140ch Sport DKG7,Essence /,26 459 km,/ 2019 /,Automatique,1,1,1,1,1,0,1,22 277 €
+RENAULT,Captur,1.2 TCe 120ch Helly Hansen EDC,Essence /,85 143 km,/ 2015 /,Automatique,1,0,1,1,1,1,0,22 277 €
+MERCEDES,Classe A,180 d 116ch Progressive Line 7G-DCT,Diesel /,75 900 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,22 277 €
+PEUGEOT,2008,e-2008 136ch GT,Electrique /,1 000 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,22 277 €
+TOYOTA,Corolla,184h Design MY19,Hybride /,21 086 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,22 277 €
+TOYOTA,Yaris,HSD 100h Style 5p,Hybride /,64 172 km,/ 2013 /,Automatique,1,0,1,1,1,1,0,22 277 €
+FORD,Puma,1.0 Flexifuel 125ch Titanium,Essence B /,33 337 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,22 277 €
+CITROEN,C3 Aircross,PureTech 82ch Shine,Essence /,47 738 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,22 277 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,15 244 km,/ 2022 /,Automatique,1,0,1,1,1,0,0,22 277 €
+BMW,X1,ixDrive30 313ch M Sport,Electrique /,2 723 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,22 277 €
+RENAULT,Captur,1.0 TCe 100ch Business GPL -21,Gpl /,30 744 km,/ 2021 /,Manuelle,1,1,1,1,0,1,1,22 277 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active 5cv,Essence /,27 408 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,22 277 €
+AUDI,Q5 Sportback,50 TFSI e 299ch S line quattro S tronic 7,Hybride R /,210 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,22 277 €
+RENAULT,Zoe,E-Tech Life charge normale R110 Achat Intégral - 21,Electrique /,24 415 km,/ 2022 /,Automatique,1,1,1,0,0,0,0,22 277 €
+RENAULT,Arkana,1.3 TCe 160ch FAP RS Line EDC -21B,Essence M /,56 205 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,22 277 €
+DS,Ds 3 Crossback,BlueHDi 130ch Performance Line + Automatique 126g,Diesel /,83 616 km,/ 2021 /,Automatique,1,0,1,1,1,1,1,22 277 €
+VOLKSWAGEN,Golf,1.4 TSI 204ch Hybride Rechargeable GTE DSG6 Euro6d-T 5p 8cv,Hybride R /,28 700 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,22 277 €
+TOYOTA,Corolla,122h Design MY20,Hybride /,52 340 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,22 277 €
+MERCEDES,Classe C Break,300 e 204+129ch AMG Line,Hybride R /,9 422 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,22 277 €
+PEUGEOT,308 Sw,1.5 BlueHDi 130 S&S Active 7cv,Diesel /,130 840 km,/ 2022 /,Manuelle,0,0,0,0,0,0,0,22 277 €
+NISSAN,Juke,1.0 DIG-T 117ch N-Connecta,Essence /,56 650 km,/ 2021 /,Manuelle,1,1,1,1,1,1,1,22 277 €
+DACIA,Sandero,0.9 TCe 90ch Stepway -18,Essence /,67 326 km,/ 2019 /,Manuelle,1,0,1,1,0,0,1,22 277 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,30 404 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,22 277 €
+MERCEDES,Sprinter,314 CDI 43 3T5 Pro Propulsion Lourd 7G-Tronic Plus,Diesel /,67 621 km,/ 2020 /,Automatique,0,1,1,1,1,1,0,22 277 €
+RENAULT,Clio,1.0 TCe 90ch Business -21N,Essence /,36 782 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,22 277 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,16 092 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,22 277 €
+DACIA,Lodgy,1.5 Blue dCi 115ch 15 ans 7 places - 20,Diesel /,68 784 km,/ 2020 /,Manuelle,1,0,1,1,0,1,1,22 277 €
+PEUGEOT,308,PHEV 180ch Allure Pack e-EAT8,Hybride R /,9 327 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,35 299 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Zen EDC,Essence M /,38 799 km,/ 2021 /,Automatique,1,1,1,1,1,1,1,35 299 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Active EAT8,Essence /,40 693 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,35 299 €
+MERCEDES,Gla,200 AMG Line,Essence /,44 889 km,/ 2021 /,Automatique,0,0,0,0,0,0,0,35 299 €
+OPEL,Grandland,1.5 D 130ch Ultimate BVA8,Diesel /,13 325 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,35 299 €
+JAGUAR,E-Pace,2.0D 180ch R-Dynamic HSE AWD BVA9,Diesel /,86 500 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,35 299 €
+MERCEDES,Classe A,200 163ch AMG Line 7G-DCT,Essence M /,9 500 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,35 299 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Style EAT8,Essence /,33 983 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,35 299 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel Pack,Essence /,10 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,35 299 €
+DS,Ds 7 Crossback,E-TENSE 225ch Performance Line +,Hybride R /,32 702 km,/ 2022 /,Automatique,1,0,0,0,1,1,0,35 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S C-Series 123g,Essence /,20 692 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,35 299 €
+DS,Ds 7 Crossback,PureTech 180ch So Chic Automatique 9cv 119g,Essence /,69 156 km,/ 2019 /,Automatique,1,0,0,0,1,0,1,35 299 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active,Diesel /,55 409 km,/ 2022 /,Manuelle,1,0,1,1,0,0,0,35 299 €
+PEUGEOT,508,HYBRID4 360ch e-EAT8 PEUGEOT SPORT ENGINEERED,Hybride R /,49 778 km,/ 2021 /,Automatique,1,0,1,0,1,1,1,35 299 €
+TOYOTA,Yaris,69 VVT-i Dynamic 5p,Essence /,94 212 km,/ 2017 /,Manuelle,1,0,0,1,0,1,0,35 299 €
+VOLKSWAGEN,Golf,1.5 eTSI OPF 150ch Life 1st DSG7,Essence /,51 510 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,35 299 €
+NISSAN,Qashqai,1.3 DIG-T 140ch Tekna+ Euro6d-T,Essence /,76 744 km,/ 2019 /,Manuelle,0,0,1,1,1,1,1,35 299 €
+KIA,Picanto,1.2 84ch GT Line Euro6d-T,Essence /,39 277 km,/ 2019 /,Manuelle,1,0,1,1,0,1,0,35 299 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,11 251 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,35 299 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,8 349 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,35 299 €
+DACIA,Lodgy,1.5 Blue dCi 115ch Techroad 7 places,Diesel /,69 350 km,/ 2020 /,Manuelle,1,0,1,1,0,1,1,35 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,7 774 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,35 299 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Iconic esprit Alpine,Hybride /,32 948 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,35 299 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c Allure S&S,Essence /,59 769 km,/ 2017 /,Manuelle,1,1,1,0,1,0,1,35 299 €
+TOYOTA,Yaris,100h France Business 5p MY19,Hybride /,71 161 km,/ 2019 /,Automatique,1,0,1,1,1,1,1,35 299 €
+RENAULT,Clio,1.5 Blue dCi 100ch Business 21N,Diesel /,21 947 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,35 299 €
+DS,Ds 3 Crossback,BlueHDi 130ch Performance Line + Automatique 126g,Diesel /,74 759 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,35 299 €
+CITROEN,C3,PureTech 82ch Feel,Essence /,51 455 km,/ 2016 /,Manuelle,1,0,1,0,0,0,0,35 299 €
+RENAULT,Captur,1.6 E-Tech hybride rechargeable 160ch Techno,Hybride R /,8 512 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,35 299 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,30 057 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,35 299 €
+BMW,X2,sDrive18iA 136ch M Sport DKG7,Essence /,31 259 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,33 999 €
+TOYOTA,C-Hr,122h Dynamic 2WD E-CVT RC18,Hybride /,47 760 km,/ 2017 /,Automatique,0,0,1,1,1,1,0,33 999 €
+DACIA,Sandero,1.0 SCe 75ch Urban Stepway - 20,Essence /,61 663 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,33 999 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,6 281 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 999 €
+TOYOTA,Yaris,116h Design 5p,Hybride /,33 102 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,33 999 €
+PEUGEOT,2008,1.2 PureTech 130ch Féline Titane S&S,Essence /,61 383 km,/ 2016 /,Manuelle,0,1,1,1,1,0,0,33 999 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Style,Essence /,28 644 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,33 999 €
+JAGUAR,F-Pace,P400e Plug-in-Hybrid R-Dynamic SE BVA8 AWD,Hybride R /,20 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 999 €
+FORD,Puma,1.0 Flexifuel 125ch S&S mHEV Titanium,Essence B /,45 500 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,33 999 €
+CITROEN,C5 Aircross,Hybrid 225ch Shine e-EAT8,Hybride R /,37 182 km,/ 2021 /,Automatique,0,1,1,1,1,0,1,33 999 €
+ABARTH,500,1.4 Turbo T-Jet 180ch 695 Rivale BVA,Essence /,74 899 km,/ 2018 /,Automatique,1,0,0,1,1,0,0,33 999 €
+HYUNDAI,Kona,Electric 204ch Executive Euro6d-T EVAP,Electrique /,68 834 km,/ 2018 /,Automatique,0,0,1,1,1,1,1,33 999 €
+LEXUS,Ux,300e Luxe,Electrique /,19 494 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,33 999 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,22 711 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+MASERATI,Levante,3.8 V8 580ch Trofeo,Essence /,3 990 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,33 999 €
+AUDI,A1 Sportback,30 TFSI 110ch Advanced,Essence /,8 158 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+RENAULT,Clio,1.5 Blue dCi 100ch Evolution,Diesel /,25 432 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+BMW,I3,170ch 120Ah iLife Atelier,Electrique /,29 538 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,33 999 €
+BMW,Serie 4 Gran Coupe,420dA 184ch Luxury,Diesel /,120 750 km,/ 2014 /,Automatique,1,0,1,1,1,0,1,33 999 €
+RENAULT,Master,F3300 L2H2 2.3 Blue dCi 135ch Grand Confort Euro6E,Diesel /,10 km,/ 2023 /,Manuelle,0,0,1,0,0,0,1,33 999 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine Business,Diesel /,45 428 km,/ 2020 /,Manuelle,0,0,1,1,1,0,1,33 999 €
+AUDI,A6,40 TDI 204ch S line S tronic 7,Diesel M /,20 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 999 €
+TOYOTA,Corolla Touring Sports,2.0 196ch Collection MY23,Hybride /,14 993 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 999 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Techno esprit Alpine - 23,Hybride /,10 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,33 999 €
+PEUGEOT,3008,1.6 THP 165ch Allure S&S EAT6,Essence /,95 470 km,/ 2017 /,Automatique,1,0,1,1,1,0,1,33 999 €
+BMW,Serie 2 Active Tourer,220iA 192ch M Sport DKG7,Essence /,29 450 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,33 999 €
+RENAULT,Clio,1.3 TCe 130ch FAP Intens EDC,Essence /,40 320 km,/ 2019 /,Automatique,1,1,1,1,1,0,1,33 999 €
+MERCEDES,Cla Shooting Brake,200 163ch AMG Line 7G-DCT,Essence M /,9 166 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,33 999 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Style,Essence /,37 799 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,33 999 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,20 100 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,33 999 €
+DS,Ds 3 Crossback,BlueHDi 130ch So Chic Automatique 98g,Diesel /,79 933 km,/ 2019 /,Automatique,1,0,1,1,1,0,1,19 499 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,9 901 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,19 499 €
+VOLKSWAGEN,Golf,1.0 TSI OPF 110ch Life Plus,Essence /,16 684 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,19 499 €
+RENAULT,Megane,E-Tech Electric EV60 130ch Evolution ER super charge,Electrique /,16 178 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,19 499 €
+TOYOTA,Yaris,116h Design 5p,Hybride /,29 278 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,19 499 €
+RENAULT,Zoe,Life charge normale R110 4cv,Electrique /,31 147 km,/ 2020 /,Automatique,1,1,1,1,0,0,0,19 499 €
+PEUGEOT,2008,1.2 PureTech 82ch Style,Essence /,82 989 km,/ 2018 /,Manuelle,1,1,1,0,0,0,0,19 499 €
+MINI,Clubman,One 102ch Canonbury 5cv,Essence /,45 287 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,19 499 €
+SUZUKI,Vitara,1.5 Dualjet Hybrid 102ch Style Auto,Hybride /,10 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,19 499 €
+RENAULT,Zoe,Zen charge normale R110 Achat Intégral - 20,Electrique /,45 313 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,19 499 €
+CITROEN,C3,PureTech 82ch Graphic,Essence /,60 035 km,/ 2018 /,Manuelle,1,0,1,0,1,0,0,19 499 €
+MERCEDES,Eqt,200 122ch Progressive,Electrique /,9 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,19 499 €
+MINI,Countryman,Cooper SE 125ch + 95ch Northwood ALL4 BVA6,Hybride R /,65 107 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,19 499 €
+BMW,X2,sDrive18dA 150ch M Sport DKG7,Diesel /,10 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,19 499 €
+PEUGEOT,3008,HYBRID4 300ch GT e-EAT8,Hybride R /,49 386 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,19 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,22 122 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,19 499 €
+RENAULT,Scenic,1.2 TCe 130ch energy Intens,Essence /,96 624 km,/ 2016 /,Manuelle,0,1,1,1,1,1,1,19 499 €
+CITROEN,C4 Cactus,PureTech 110ch S&S Feel E6.d-TEMP,Essence /,56 741 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,19 499 €
+RENAULT,Clio,1.5 dCi 90ch Intens Euro6c,Diesel /,35 349 km,/ 2019 /,Manuelle,1,1,1,1,1,0,0,19 499 €
+DACIA,Duster,1.2 TCe 125ch Prestige 4X2 Euro6,Essence /,96 867 km,/ 2016 /,Manuelle,1,0,1,1,0,0,0,19 499 €
+RENAULT,Arkana,1.3 TCe 140ch Intens EDC,Essence M /,38 059 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,19 499 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,6 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,19 499 €
+TOYOTA,C-Hr,122h Graphic 2WD E-CVT MC19,Hybride /,67 454 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,19 499 €
+RENAULT,Megane,E-Tech Electric EV40 130ch Techno standard charge,Electrique /,19 450 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,19 499 €
+RENAULT,Captur,1.3 TCe 130ch FAP Business - 20,Essence /,36 407 km,/ 2020 /,Manuelle,1,1,1,1,0,1,1,19 499 €
+MINI,Countryman,Cooper SE 136ch + 88ch Longstone ALL4 BVA,Hybride R /,66 896 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,19 499 €
+PEUGEOT,308,1.6 THP 205ch GT S&S 5p,Essence /,61 685 km,/ 2016 /,Manuelle,1,1,1,0,1,0,0,19 499 €
+CITROEN,C5 Aircross,Hybrid 225ch C-Series e-EAT8,Hybride R /,28 597 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,19 499 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Techno super charge,Electrique /,31 256 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,19 499 €
+PEUGEOT,Expert,Standard 2.0 BlueHDi 120ch S&S Premium,Diesel /,42 730 km,/ 2021 /,Manuelle,0,0,1,1,0,0,1,19 499 €
+RENAULT,Captur,1.0 TCe 100ch Business,Essence /,33 832 km,/ 2019 /,Manuelle,1,1,1,1,0,1,1,15 699 €
+PEUGEOT,308,1.2 Puretech 130ch Allure S&S 5p,Essence /,89 766 km,/ 2016 /,Manuelle,1,1,1,0,1,0,0,15 699 €
+VOLKSWAGEN,Id.5,204ch Pro Performance 77 kWh,Electrique /,100 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,15 699 €
+MERCEDES,Classe B,200d 150ch AMG Line 8G-DCT,Diesel /,4 442 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,15 699 €
+FORD,Focus,1.0 Flexifuel mHEV 125ch ST-Line X,Essence M /,3 000 km,/ 2024 /,Manuelle,0,1,1,1,1,1,1,15 699 €
+TOYOTA,Yaris,100 VVT-i Dynamic 5p,Essence /,134 145 km,/ 2015 /,Manuelle,1,0,1,1,0,1,0,15 699 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Business EDC,Essence M /,22 694 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,15 699 €
+RENAULT,Clio,1.0 TCe 100ch Zen,Essence /,60 723 km,/ 2019 /,Manuelle,1,1,1,1,0,0,0,15 699 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Allure,Essence /,12 957 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,15 699 €
+PEUGEOT,208,1.2 PureTech 110ch Féline S&S EAT6 5p,Essence /,40 771 km,/ 2015 /,Automatique,1,0,1,0,1,0,1,15 699 €
+DACIA,Duster,1.0 ECO-G 100ch Confort 4x2 - E6U,Gpl /,52 485 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,15 699 €
+SUZUKI,Vitara,1.6 DDiS Copper Edition AllGrip,Diesel /,97 000 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,15 699 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Shine EAT6 E6.d-TEMP,Essence /,60 000 km,/ 2018 /,Automatique,1,0,1,1,1,0,1,15 699 €
+TOYOTA,Rav4,2.5 Hybride 222ch Lounge AWD-i MY22,Hybride /,50 985 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,15 699 €
+MERCEDES,Gla,200 d 150ch Progressive Line 8G-DCT,Diesel /,58 634 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,15 699 €
+DACIA,Duster,1.3 TCe 130ch FAP Journey 4x2,Essence /,7 988 km,/ 2023 /,Manuelle,1,0,1,1,1,1,1,15 699 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Business,Essence /,22 378 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,15 699 €
+RENAULT,Clio,1.0 SCe 65ch Zen -21N,Essence /,35 854 km,/ 2022 /,Manuelle,1,1,1,1,0,0,0,15 699 €
+DACIA,Spring,Confort Plus Caméra Carplay - Achat Intégral - Gtie 1an,Electrique /,37 500 km,/ 2022 /,Automatique,1,0,0,1,0,1,1,15 699 €
+PEUGEOT,3008,1.2 PureTech 130ch Allure S&S EAT6,Essence /,91 680 km,/ 2017 /,Automatique,1,0,1,1,1,0,1,15 699 €
+RENAULT,Clio,1.6 E-Tech hybride 145ch Techno,Hybride /,10 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 699 €
+RENAULT,Captur,1.5 Blue dCi 95ch Zen,Diesel /,90 930 km,/ 2021 /,Manuelle,1,1,1,1,0,0,0,15 699 €
+RENAULT,Megane,1.3 TCe 140ch Techno EDC -23,Essence /,16 900 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 699 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,15 200 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,15 699 €
+PEUGEOT,308,1.2 PureTech 130ch E6.c S&S GT Line 108g,Essence /,82 587 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,15 699 €
+DACIA,Spring,Confort - Achat Intégral,Electrique /,15 739 km,/ 2021 /,Automatique,1,0,0,1,0,0,0,15 699 €
+BMW,Ix,xDrive50 523ch,Electrique /,60 635 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,15 699 €
+LAND-ROVER,Range Rover Evoque,2.0 D 200ch R-Dynamic SE AWD BVA,Diesel M /,50 672 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,15 699 €
+RENAULT,Scenic,1.3 TCe 160ch energy Initiale Paris EDC,Essence /,120 748 km,/ 2018 /,Automatique,0,0,1,1,1,1,1,15 699 €
+BMW,X7,M50iA xDrive 530ch M Performance,Essence /,88 152 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,15 699 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,34 126 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,15 499 €
+TOYOTA,Aygo X,1.0 VVT-i 72ch Air Design MY23,Essence /,13 626 km,/ 2023 /,Manuelle,1,0,1,1,0,1,0,15 499 €
+FORD,Fiesta,1.0 EcoBoost 100ch Stop&Start Titanium 5p Euro6.2,Essence /,29 757 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,15 499 €
+VOLKSWAGEN,T-Cross,1.0 TSI 110ch R-Line Tech,Essence /,21 404 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,15 499 €
+CITROEN,C3 Aircross,BlueHDi 100ch S&S Feel Business E6.d 120g,Diesel /,88 636 km,/ 2020 /,Manuelle,1,0,1,1,0,0,1,15 499 €
+DS,Ds 3 Crossback,E-Tense Performance Line +,Electrique /,40 874 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,15 499 €
+RENAULT,Twingo,1.0 SCe 65ch Equilibre,Essence /,10 461 km,/ 2022 /,Manuelle,1,0,0,1,1,0,0,15 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack,Essence /,14 480 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,15 499 €
+RENAULT,Zoe,Intens R110 MY19,Electrique /,27 459 km,/ 2020 /,Automatique,1,0,1,1,1,0,0,15 499 €
+KIA,Xceed,1.6 GDi 141ch PHEV Active DCT6,Hybride R /,9 990 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 499 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,48 450 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,15 499 €
+NISSAN,Micra,1.0 IG-T 100ch Acenta Xtronic 2019 Euro6-EVAP,Essence /,27 938 km,/ 2020 /,Automatique,1,0,1,1,0,0,0,15 499 €
+MERCEDES,Eqa,250 190ch AMG Line,Electrique /,7 068 km,/ 2022 /,Automatique,0,1,0,1,1,1,1,15 499 €
+DACIA,Duster,1.0 ECO-G 100ch Prestige 4x2 - 20,Gpl /,35 237 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,15 499 €
+VOLKSWAGEN,Polo,1.0 TSI 110ch R-Line DSG7,Essence /,100 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,15 499 €
+FORD,Puma,1.0 EcoBoost 125ch mHEV Titanium Business 6cv,Essence M /,35 815 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,15 499 €
+VOLKSWAGEN,Tiguan,1.4 TSI 150ch ACT BlueMotion Technology Confortline,Essence /,111 293 km,/ 2016 /,Manuelle,1,0,1,1,1,1,1,15 499 €
+CITROEN,C5 X,Hybride rechargeable 225ch Feel Pack ëEAT8,Hybride /,10 500 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 499 €
+RENAULT,Scenic,1.2 TCe 130ch energy Intens,Essence /,57 718 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,15 499 €
+RENAULT,Clio,1.0 TCe 90ch Limited -21N,Essence /,39 188 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,15 499 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active,Diesel /,121 080 km,/ 2021 /,Manuelle,0,1,1,1,0,1,1,15 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT Line 7cv,Essence /,84 702 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,15 499 €
+RENAULT,Kangoo,1.3 TCe 100ch Equilibre TPMR,Essence /,7 000 km,/ 2024 /,Manuelle,1,1,1,1,0,1,1,15 499 €
+DS,Ds 4,PureTech 130ch Sport Chic S&S,Essence /,66 200 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,15 499 €
+PEUGEOT,3008,HYBRID4 300ch GT Line e-EAT8,Hybride R /,71 348 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,15 499 €
+RENAULT,Zoe,Intens R110 MY19 LOCATION BATTERIE,Electrique /,49 389 km,/ 2020 /,Automatique,1,0,1,1,1,0,0,15 499 €
+RENAULT,Twingo,Electric Life R80 Achat Intégral,Electrique /,30 973 km,/ 2021 /,Automatique,1,0,0,0,0,0,0,15 499 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,28 722 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 499 €
+FORD,Focus,1.0 EcoBoost 125ch Stop&Start Titanium,Essence /,60 557 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,15 499 €
+MERCEDES,Classe A,200 163ch AMG Line 7G-DCT,Essence /,61 717 km,/ 2018 /,Automatique,0,0,1,1,1,1,1,15 499 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,34 089 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,26 299 €
+PEUGEOT,3008,HYBRID4 300ch GT e-EAT8,Hybride R /,26 970 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,26 299 €
+MERCEDES,Glc,220 d 194ch AMG Line 4Matic 9G-Tronic,Diesel /,50 624 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,26 299 €
+PEUGEOT,Rifter,PureTech 110ch S&S Long GT Line 119g,Essence /,58 600 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,26 299 €
+MERCEDES,Eqa,250 190ch Progressive Line,Electrique /,43 440 km,/ 2022 /,Automatique,1,1,0,1,1,1,1,26 299 €
+PEUGEOT,2008,e-2008 136ch GT,Electrique /,11 993 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,26 299 €
+RENAULT,Twingo,0.9 TCe 95ch Zen - 20,Essence /,30 397 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,26 299 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Intens EDC -21B,Essence M /,11 854 km,/ 2022 /,Automatique,1,0,1,1,0,0,0,26 299 €
+RENAULT,Clio,1.0 TCe 90ch Intens X-Tronic -21,Essence /,39 560 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,26 299 €
+TOYOTA,Yaris,116h Iconic 5p MY22,Hybride /,7 202 km,/ 2022 /,Automatique,0,1,1,1,1,1,0,26 299 €
+RENAULT,Clio,1.0 TCe 100ch Intens,Essence /,59 191 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,26 299 €
+TOYOTA,Aygo,1.0 VVT-i 72ch x-play x-app 5p MC18,Essence /,35 421 km,/ 2021 /,Manuelle,1,0,0,1,0,1,0,26 299 €
+RENAULT,Clio,1.0 TCe 90ch Limited -21N,Essence /,15 763 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,26 299 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Techno optimum charge,Electrique /,19 681 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,26 299 €
+MERCEDES,Gla,200 d 150ch AMG Line 8G-DCT,Diesel /,8 836 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,26 299 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,31 247 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,26 299 €
+FORD,Puma,1.0 Flexifuel 125ch ST-Line,Essence B /,39 164 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,26 299 €
+TOYOTA,Yaris Cross,116h Design MY22,Hybride /,5 600 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,26 299 €
+RENAULT,Arkana,1.6 E-Tech hybride 145ch Engineered -22,Hybride /,9 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,26 299 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S Allure Business,Diesel /,103 798 km,/ 2020 /,Manuelle,0,1,1,1,1,1,1,26 299 €
+PEUGEOT,208,e-208 136ch Allure Pack,Electrique /,14 650 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,26 299 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Evolution,Hybride /,10 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,26 299 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Shine E6.d-TEMP,Essence /,72 311 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,26 299 €
+BMW,X2,sDrive16d 116ch M Sport Euro6d-T,Diesel /,34 538 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,26 299 €
+DACIA,Sandero,1.0 TCe 90ch Expression,Essence /,8 990 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,26 299 €
+PEUGEOT,208,e-208 136ch GT Line,Electrique /,27 648 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,26 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Pack,Essence /,4 000 km,/ 2022 /,Manuelle,0,0,1,1,1,0,0,26 299 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Initiale Paris,Hybride R /,38 471 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,26 299 €
+RENAULT,Clio,1.3 TCe 140 Techno Caméra Gps Carplay 1900Kms Gtie 06/2025,Essence /,3 000 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,26 299 €
+DACIA,Logan,1.0 SCe 75ch Ambiance -18,Essence /,48 586 km,/ 2018 /,Manuelle,1,0,0,1,0,0,0,26 299 €
+DS,Ds 7 Crossback,E-TENSE 4x4 300ch Grand Chic,Hybride R /,70 733 km,/ 2020 /,Automatique,1,0,0,0,1,1,0,31 999 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,78 226 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,31 999 €
+DACIA,Sandero,1.0 SCe 65ch Confort -22,Essence /,23 911 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,31 999 €
+MERCEDES,Vito,114 CDI Mixto Long Select Propulsion 9G-Tronic,Diesel /,50 401 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,31 999 €
+CITROEN,C-Zero,Confort,Electrique /,52 466 km,/ 2016 /,Automatique,1,0,0,1,1,0,0,31 999 €
+TOYOTA,C-Hr,1.8 Hybride 122ch Design E-CVT,Hybride /,9 900 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,31 999 €
+PEUGEOT,3008,1.2 PureTech 130ch E6.c Allure Business S&S EAT8,Essence /,53 761 km,/ 2019 /,Automatique,0,1,1,1,1,0,1,31 999 €
+RENAULT,Austral,1.2 TCe mild hybrid advanced 130ch Techno,Essence M /,11 650 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,31 999 €
+PEUGEOT,508,HYBRID 225ch GT e-EAT8,Hybride R /,49 662 km,/ 2019 /,Automatique,1,0,1,0,1,0,0,31 999 €
+RENAULT,Clio,1.0 SCe 65ch Life,Essence /,22 259 km,/ 2020 /,Manuelle,1,1,1,0,0,0,0,31 999 €
+FORD,Kuga,2.5 Duratec 225ch PHEV ST-Line Business BVA,Hybride R /,12 000 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,31 999 €
+SMART,Fortwo Coupe,EQ 82ch prime,Electrique /,100 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,31 999 €
+NISSAN,Leaf,150ch 40kWh Business 19.5,Electrique /,34 081 km,/ 2021 /,Automatique,1,0,1,1,1,1,0,31 999 €
+CITROEN,C5 Aircross,Hybrid 225ch Shine e-EAT8,Hybride R /,5 955 km,/ 2022 /,Automatique,1,0,1,1,1,0,1,31 999 €
+RENAULT,Express,1.3 TCe 100ch Essentiel,Essence /,10 km,/ 2023 /,Manuelle,0,0,1,0,0,0,1,31 999 €
+PEUGEOT,2008,1.2 PureTech 110ch Style S&S,Essence /,66 577 km,/ 2017 /,Manuelle,1,1,1,0,0,0,0,31 999 €
+PEUGEOT,Partner,M 950kg BlueHDi 130ch S&S,Diesel /,15 km,/ 2023 /,Manuelle,0,0,1,1,0,0,0,31 999 €
+RENAULT,Kadjar,1.7 Blue dCi 150ch Intens,Diesel /,56 674 km,/ 2019 /,Manuelle,0,1,1,1,1,1,1,31 999 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,32 355 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,31 999 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,10 000 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,31 999 €
+MERCEDES,Classe A,180 CDI 1.8 Business Executive 7G-DCT,Diesel /,72 753 km,/ 2013 /,Automatique,1,0,1,1,1,1,0,31 999 €
+OPEL,Mokka,1.2 Turbo 130ch Elegance Business BVA8,Essence /,33 341 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,31 999 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,4 780 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,31 999 €
+BMW,I4,eDrive35 286ch M Sport,Electrique /,27 000 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,31 999 €
+RENAULT,Arkana,1.6 E-Tech 145ch RS Line -21B,Hybride /,39 664 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,31 999 €
+OPEL,Grandland X,1.5 D 130ch Ultimate,Diesel /,58 200 km,/ 2019 /,Manuelle,0,1,1,1,1,1,1,31 999 €
+RENAULT,Clio,1.0 TCe 100ch Intens - 20,Essence /,41 305 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,31 999 €
+JAGUAR,Xk Coupe,5.0 V8 R,Essence /,44 221 km,/ 2012 /,Automatique,1,0,1,1,1,0,1,31 999 €
+PORSCHE,Cayenne Coupe,3.0 V6 462ch E-Hybrid,Hybride R /,60 400 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,31 999 €
+PEUGEOT,3008,1.2 PureTech 130ch GT Line S&S,Essence /,105 809 km,/ 2017 /,Manuelle,0,1,1,1,1,0,1,31 999 €
+PEUGEOT,508 Sw,PureTech 130ch S&S GT EAT8,Essence /,20 699 km,/ 2023 /,Automatique,1,0,1,0,1,1,1,33 999 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,7 915 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+PEUGEOT,308,1.2 Puretech 130ch Allure S&S EAT6 5p,Essence /,91 372 km,/ 2017 /,Automatique,1,1,1,0,1,1,0,33 999 €
+CITROEN,C4,PureTech 130ch Feel S&S EAT6,Essence /,27 815 km,/ 2017 /,Automatique,1,0,1,1,1,0,1,33 999 €
+PEUGEOT,5008,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,16 295 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,33 999 €
+MINI,Mini,Cooper 136ch Heddon Street BVA7 Euro6d-T,Essence /,66 959 km,/ 2019 /,Automatique,0,0,1,1,1,0,1,33 999 €
+NISSAN,Leaf,150ch 40kWh N-Connecta,Electrique /,18 398 km,/ 2019 /,Automatique,1,0,1,1,1,1,1,33 999 €
+OPEL,Corsa,1.2 Turbo 100ch GS Line,Essence /,61 620 km,/ 2020 /,Manuelle,1,1,1,1,0,0,0,33 999 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Expression +,Gpl /,10 000 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,33 999 €
+PORSCHE,Cayenne,3.0 440ch S,Essence /,97 042 km,/ 2017 /,Automatique,1,1,1,0,1,0,0,33 999 €
+RENAULT,Twingo,0.9 TCe 95ch Zen - 20,Essence /,28 829 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,33 999 €
+RENAULT,Kadjar,1.2 TCe 130ch energy Intens EDC,Essence /,14 678 km,/ 2017 /,Automatique,0,1,1,1,1,1,1,33 999 €
+TOYOTA,Yaris Cross,116h Design MY21,Hybride /,9 324 km,/ 2021 /,Automatique,1,1,1,1,1,1,1,33 999 €
+VOLKSWAGEN,Taigo,1.0 TSI 110ch R-Line DSG7,Essence /,18 411 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,33 999 €
+MERCEDES,Glb,250 224ch AMG Line LAUCH EDITION 4Matic 8G DCT,Essence /,39 195 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,33 999 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,1 832 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,33 999 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel Pack,Essence /,25 155 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+PEUGEOT,3008,1.2 PureTech 130ch Allure S&S EAT6,Essence /,96 052 km,/ 2017 /,Automatique,1,0,1,1,1,0,1,33 999 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta,Essence M /,40 615 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,33 999 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,21 957 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,33 999 €
+MERCEDES,Gla,200 d 150ch AMG Line 8G-DCT,Diesel /,78 822 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,33 999 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,313 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,33 999 €
+CITROEN,C4 Picasso,BlueHDi 120ch Feel S&S,Diesel /,89 393 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,33 999 €
+AUDI,E-Tron Sportback,55 408ch S Line e-quattro,Electrique /,36 309 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,33 999 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,101 899 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,33 999 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Techno,Hybride /,9 990 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,33 999 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta + Pack DESIGN + Roue de secours,Essence M /,38 055 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,33 999 €
+NISSAN,X-Trail,1.6 dCi 130ch Tekna 7 places,Diesel /,113 473 km,/ 2016 /,Manuelle,0,0,1,1,1,1,1,33 999 €
+LAND-ROVER,Range Rover Evoque,1.5 P300e 309ch Dynamic SE,Hybride R /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,0,33 999 €
+BMW,Serie 1,118iA 136ch Business Design DKG7,Essence /,3 778 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,33 999 €
+CITROEN,C4,BlueHDi 130ch S&S Feel Pack EAT8,Diesel /,16 900 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,23 480 €
+HYUNDAI,Kona,Electric 204ch Executive Euro6d-T EVAP,Electrique /,50 822 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,23 480 €
+FORD,C-Max,1.0 EcoBoost 100ch Stop&Start Trend Euro6.2,Essence /,64 068 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,23 480 €
+DS,Ds 3 Crossback,E-Tense Performance Line 4cv,Electrique /,30 200 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,23 480 €
+LAND-ROVER,Discovery Sport,2.0 TD4 150ch AWD SE BVA Mark I,Diesel /,140 040 km,/ 2016 /,Automatique,1,0,1,1,1,0,1,23 480 €
+MERCEDES,Eqe Suv,350+ 292ch AMG Line 4Matic,Electrique /,9 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,23 480 €
+TOYOTA,Yaris,120 VVT-i Dynamic 5p MY22,Essence /,4 242 km,/ 2023 /,Manuelle,1,0,1,1,0,1,0,23 480 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Iconic,Hybride /,46 538 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,23 480 €
+OPEL,Mokka,Mokka-e 136ch GS Line,Electrique /,10 500 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,23 480 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active,Diesel /,82 452 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,23 480 €
+TOYOTA,Aygo,1.0 VVT-i 72ch x-play 5p MY20,Essence /,15 509 km,/ 2020 /,Manuelle,1,0,0,1,0,1,0,23 480 €
+MINI,Mini,Cooper 136ch Edition Greenwich BVA7,Essence /,43 507 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,23 480 €
+LAND-ROVER,Range Rover Sport,3.0 SDV6 306 HSE Dynamic Mark IV,Diesel /,137 376 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,23 480 €
+VOLKSWAGEN,Golf,1.5 TSI EVO 130ch Connect DSG7 5p,Essence /,55 003 km,/ 2018 /,Automatique,1,0,1,1,1,1,1,23 480 €
+PEUGEOT,208,1.5 BlueHDi 100ch E6.c Active BVM5 5p,Diesel /,91 937 km,/ 2019 /,Manuelle,1,0,1,0,0,0,0,23 480 €
+VOLKSWAGEN,T-Roc,1.0 TSI 110ch Life,Essence /,8 099 km,/ 2022 /,Manuelle,1,1,1,1,1,1,1,23 480 €
+TOYOTA,Bz4x,204ch 11kW Origin,Electrique /,8 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,23 480 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens,Essence /,75 750 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,23 480 €
+PEUGEOT,3008,1.2 PureTech 130ch E6.c GT Line S&S,Essence /,33 124 km,/ 2018 /,Manuelle,0,1,1,1,1,0,1,23 480 €
+CITROEN,C5 Aircross,Hybrid rechargeable 225ch Shine Pack ë-EAT8,Hybride R /,14 613 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,23 480 €
+PEUGEOT,508,BlueHDi 130ch S&S Allure Business EAT8 7cv,Diesel /,35 626 km,/ 2020 /,Automatique,1,0,1,0,1,0,0,23 480 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Iconic esprit Alpine,Hybride /,19 033 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,23 480 €
+FORD,Transit 2t,PE 390 L2H2 198 kW Batterie 75/68 kWh Trend Business,Electrique /,10 km,/ 2023 /,Automatique,0,0,1,1,1,0,1,23 480 €
+CITROEN,Jumpy,M 2.0 BlueHDi 145ch,Diesel /,11 750 km,/ 2023 /,Manuelle,0,0,1,1,0,0,1,23 480 €
+RENAULT,Clio,1.5 Blue dCi 85ch Business,Diesel /,60 455 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,23 480 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,36 188 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,23 480 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,10 km,/ 2023 /,Manuelle,0,0,1,1,1,1,1,23 480 €
+MERCEDES,Gle Coupe,400 e 252ch+136ch AMG Line 4Matic 9G-Tronic,Hybride R /,9 900 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,23 480 €
+SUZUKI,Across,2.5 Hybride Rechargeable 306ch Pack 2023 ( IDEM TOYOTA RAV4 / RAV 4 ),Hybride R /,5 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,23 480 €
+TOYOTA,Highlander,2.5 Hybrid 248ch Lounge AWD-I MY23,Hybride /,9 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,23 480 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure Pack,Essence /,12 917 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,18 499 €
+VOLKSWAGEN,Tiguan Allspace,2.0 TDI 150ch Carat DSG7 Euro6dT,Diesel /,71 906 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,18 499 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,19 486 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,18 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Business EAT8,Essence /,31 776 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,18 499 €
+CITROEN,C3,PureTech 82ch Graphic S&S E6.d,Essence /,40 385 km,/ 2019 /,Manuelle,1,0,1,0,1,0,1,18 499 €
+SMART,Fortwo Cabriolet,EQ 82ch prime,Electrique /,3 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,18 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,7 107 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,18 499 €
+MINI,Mini,Cooper 136ch Hatch,Essence /,68 357 km,/ 2017 /,Manuelle,1,0,0,1,0,0,0,18 499 €
+HYUNDAI,Tucson,1.6 CRDI 136ch Hybrid 48V Executive DCT7,Diesel M /,34 265 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,18 499 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Intens -21N,Hybride /,21 657 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,18 499 €
+DACIA,Spring,Confort Plus - Achat Intégral,Electrique /,6 096 km,/ 2022 /,Automatique,1,0,0,1,0,1,1,18 499 €
+PEUGEOT,3008,1.2 PureTech 130ch Allure S&S,Essence /,95 747 km,/ 2018 /,Manuelle,0,1,1,1,1,0,1,18 499 €
+VOLKSWAGEN,Golf,1.5 eTSI OPF 130ch Life 1st DSG7,Essence M /,37 034 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,18 499 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta,Essence M /,37 700 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,18 499 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Allure EAT8,Essence /,9 174 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,18 499 €
+CITROEN,C3 Aircross,BlueHDi 110ch S&S Feel Pack,Diesel /,12 674 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,18 499 €
+DS,Ds 3 Crossback,BlueHDi 100ch So Chic,Diesel /,66 721 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,18 499 €
+NISSAN,Qashqai,1.3 DIG-T 160ch N-Connecta 2019,Essence /,21 668 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,18 499 €
+VOLKSWAGEN,Polo,1.0 TSI 95ch Life,Essence /,55 000 km,/ 2021 /,Manuelle,1,1,1,1,0,0,0,18 499 €
+RENAULT,Twingo,E-Tech Electric Life R80 Achat Intégral - 21,Electrique /,28 410 km,/ 2022 /,Automatique,1,0,0,0,0,0,0,18 499 €
+RENAULT,Megane,1.5 Blue dCi 115ch Techno EDC -23,Diesel /,18 120 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,18 499 €
+RENAULT,Scenic,1.5 dCi 110ch energy Intens EDC,Diesel /,80 099 km,/ 2018 /,Automatique,0,1,1,1,1,1,1,18 499 €
+DACIA,Duster,1.0 ECO-G 100ch Prestige 4x2 - E6U,Gpl /,41 159 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,18 499 €
+BMW,Serie 5,530eA iPerformance 252ch M Sport Steptronic,Hybride R /,94 197 km,/ 2018 /,Automatique,0,0,1,1,1,1,1,18 499 €
+PEUGEOT,3008,Plug-in Hybrid 225ch Allure Pack e-EAT8,Hybride R /,12 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,18 499 €
+VOLKSWAGEN,E-Up!,Electrique 83ch 4cv,Electrique /,54 032 km,/ 2020 /,Automatique,1,0,0,1,1,0,0,18 499 €
+JAGUAR,F-Pace,P400e Plug-in-Hybrid R-Dynamic HSE BVA8 AWD,Hybride R /,10 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,18 499 €
+BMW,Serie 1,128tiA 265ch,Essence /,14 990 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,18 499 €
+RENAULT,Megane,1.5 Blue dCi 115ch Business EDC,Diesel /,65 930 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,18 499 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Style,Diesel /,20 416 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,18 499 €
+OPEL,Corsa,1.2 75ch Elegance Business,Essence /,30 298 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,13 499 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,7 947 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,13 499 €
+RENAULT,Clio,1.3 TCe 140ch Intens -21N,Essence /,26 971 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,13 499 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,9 125 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,13 499 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta,Essence M /,29 272 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,13 499 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,4 868 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,13 499 €
+PEUGEOT,308,PHEV 180ch Allure e-EAT8,Hybride R /,8 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,13 499 €
+RENAULT,Megane,1.5 Blue dCi 115ch Evolution EDC -23,Diesel /,10 273 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,13 499 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Business -21N,Hybride /,19 310 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,13 499 €
+RENAULT,Clio,1.6 E-Tech 145ch full hybrid Techno,Hybride /,9 000 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,13 499 €
+RENAULT,Trafic,L2H1 1300 2.0 dCi 120ch Grand Confort S&S E6,Diesel /,76 710 km,/ 2021 /,Manuelle,0,0,1,1,0,0,0,13 499 €
+RENAULT,Megane,1.3 TCe 140ch Techno EDC -23,Essence /,8 081 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,13 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack 118g,Essence /,10 940 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,13 499 €
+PEUGEOT,3008,1.2 PureTech 130ch Allure S&S,Essence /,98 016 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,13 499 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2,Diesel /,103 633 km,/ 2018 /,Manuelle,1,0,1,1,1,1,1,13 499 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Zen EDC,Essence M /,36 016 km,/ 2022 /,Automatique,1,1,1,1,1,1,1,13 499 €
+PEUGEOT,3008,HYBRID 225ch Allure Pack e-EAT8,Hybride /,33 254 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,13 499 €
+CITROEN,C3,PureTech 82ch Shine,Essence /,19 400 km,/ 2018 /,Manuelle,1,0,1,0,1,0,1,13 499 €
+MINI,Clubman,Cooper S 178ch Business Design BVA7,Essence /,20 210 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,13 499 €
+RENAULT,Clio,1.0 TCe 90ch Evolution,Essence /,79 308 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,13 499 €
+DACIA,Sandero,1.0 SCe 75ch Essentiel - 20,Essence /,49 000 km,/ 2020 /,Manuelle,1,0,0,1,0,0,0,13 499 €
+RENAULT,Twingo,1.0 SCe 65ch Life - 20,Essence /,42 369 km,/ 2020 /,Manuelle,1,0,0,0,0,0,0,13 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8,Essence /,9 730 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,13 499 €
+MERCEDES,Classe E Coupe,220 d 194ch AMG Line 9G-Tronic,Diesel /,75 455 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,13 499 €
+PEUGEOT,308 Sw,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,7 536 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,13 499 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Business -21,Hybride /,38 256 km,/ 2022 /,Automatique,1,1,1,1,0,1,1,13 499 €
+BMW,Ix3,M sport 286ch Impressive,Electrique /,45 373 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,13 499 €
+MERCEDES,Classe S,580 e 510ch AMG Line 9G-Tronic,Hybride /,42 201 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,13 499 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Business - 21,Diesel /,45 761 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,13 499 €
+SKODA,Kamiq,1.0 TSI Evo 110ch Ambition,Essence /,9 100 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,13 499 €
+RENAULT,Twingo,Electric Zen R80 Achat Intégral,Electrique /,9 296 km,/ 2020 /,Automatique,1,0,0,1,1,0,0,14 499 €
+CITROEN,Jumpy,M 1.5 BlueHDi 120ch S&S Pack Driver,Diesel /,29 704 km,/ 2023 /,Manuelle,0,0,1,1,0,1,1,14 499 €
+OPEL,Corsa,1.2 Turbo 100ch Elegance,Essence /,30 915 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,14 499 €
+TOYOTA,Yaris,HSD 100h TechnoLine 5p,Hybride /,79 159 km,/ 2017 /,Automatique,1,0,1,1,1,1,0,14 499 €
+DS,Ds 3 Crossback,PureTech 130ch Rivoli Automatique,Essence /,18 374 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,14 499 €
+DACIA,Duster,1.3 TCe 150ch FAP Prestige 4x2,Essence /,59 405 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,14 499 €
+RENAULT,Twingo,Electric Intens R80 Achat Intégral,Electrique /,20 379 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,14 499 €
+OPEL,Grandland X,1.2 Turbo 130ch ECOTEC Innovation,Essence /,86 708 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,14 499 €
+RENAULT,Trafic,L1H1 1200 1.6 dCi 120ch Grand Confort Euro6,Diesel /,58 666 km,/ 2018 /,Manuelle,0,0,1,1,0,0,0,14 499 €
+HYUNDAI,Tucson,1.6 T-GDi 150ch Hybrid 48V Executive DCT7,Essence M /,30 352 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,14 499 €
+PEUGEOT,208,e-208 136ch Allure,Electrique /,26 417 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,14 499 €
+MERCEDES,Eqc,400 408ch AMG Line 4Matic,Electrique /,65 400 km,/ 2021 /,Automatique,0,1,0,1,1,1,1,14 499 €
+PEUGEOT,308,PHEV 225ch GT e-EAT8,Hybride R /,7 200 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,14 499 €
+DACIA,Spring,Confort Plus - Achat Intégral,Electrique /,10 000 km,/ 2021 /,Automatique,1,0,0,1,0,1,1,14 499 €
+CITROEN,C5 Aircross,Hybrid rechargeable 225ch Shine ë-EAT8,Hybride R /,14 081 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,14 499 €
+MERCEDES,Eqa,250+ 190ch AMG Line,Electrique /,7 500 km,/ 2024 /,Automatique,1,1,0,1,1,1,1,14 499 €
+NISSAN,Qashqai,1.2L DIG-T 115ch Connect Edition,Essence /,105 221 km,/ 2015 /,Manuelle,1,0,1,1,1,1,1,14 499 €
+RENAULT,Clio,1.6 E-Tech 140ch Intens,Hybride /,42 151 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,14 499 €
+PEUGEOT,208,e-208 136ch Style,Electrique /,35 000 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,14 499 €
+OPEL,Crossland X,1.2 Turbo 130ch Ultimate,Essence /,72 386 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,14 499 €
+MERCEDES,Glc,300 e 313ch AMG Line 4Matic 9G-Tronic,Hybride R /,13 994 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,14 499 €
+RENAULT,Clio,1.0 TCe 100ch Intens,Essence /,49 719 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,14 499 €
+CITROEN,C4,Moteur électrique 136ch (100 kW) Shine Pack Automatique,Electrique /,41 579 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,14 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,69 396 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,14 499 €
+MERCEDES,Classe A,180 136ch Style Line 7G-DCT,Essence /,30 000 km,/ 2019 /,Automatique,1,1,1,1,1,1,0,14 499 €
+DACIA,Sandero,1.0 SCe 75ch Urban Stepway,Essence /,12 627 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,14 499 €
+MERCEDES,Citan,112 CDI Long Pro BVA 5cv,Diesel /,18 287 km,/ 2023 /,Automatique,0,1,0,0,0,0,1,14 499 €
+RENAULT,Kadjar,1.5 dCi 110ch energy Life eco²,Diesel /,89 730 km,/ 2016 /,Manuelle,1,0,1,1,0,0,0,14 499 €
+SKODA,Citigo E Iv,Electrique 83ch Style 5p,Electrique /,36 034 km,/ 2020 /,Automatique,1,0,0,1,1,0,0,14 499 €
+NISSAN,Leaf,150ch 40kWh Acenta 21,Electrique /,29 714 km,/ 2021 /,Automatique,1,0,1,1,1,1,0,14 499 €
+BMW,Serie 3 Touring,318dA 150ch M Sport,Diesel /,81 336 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,31 900 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine,Essence /,20 400 km,/ 2020 /,Manuelle,0,0,1,1,1,0,1,31 900 €
+CITROEN,C5 Aircross,Hybrid rechargeable 225ch Feel Pack ë-EAT8,Hybride R /,26 655 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,31 900 €
+BMW,Serie 1,118iA 136ch M Sport DKG7,Essence /,34 542 km,/ 2021 /,Automatique,0,1,1,1,1,1,0,31 900 €
+RENAULT,Megane,1.5 Blue dCi 115ch Intens -21B,Diesel /,77 858 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,31 900 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,6 561 km,/ 2023 /,Manuelle,0,1,1,1,1,0,1,31 900 €
+AUDI,A6,50 TDI 286ch Avus quattro tiptronic 138g,Diesel /,60 417 km,/ 2018 /,Automatique,0,1,1,1,1,1,1,31 900 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c Allure S&S EAT6,Essence /,41 800 km,/ 2019 /,Automatique,1,1,1,0,1,0,1,31 900 €
+DACIA,Sandero,0.9 TCe 90ch Stepway -18,Essence /,41 042 km,/ 2018 /,Manuelle,1,0,1,1,0,0,0,31 900 €
+RENAULT,Clio,1.5 Blue dCi 100ch Evolution,Diesel /,9 900 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,31 900 €
+RENAULT,Kangoo,1.5 Blue dCi 80ch Trend,Diesel /,117 460 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,31 900 €
+FORD,Puma,1.0 Flexifuel 125ch S&S mHEV ST-Line X,Essence B /,23 314 km,/ 2022 /,Manuelle,1,0,1,1,1,0,1,31 900 €
+RENAULT,Clio,1.5 dCi 75ch energy Business E6C,Diesel /,47 768 km,/ 2018 /,Manuelle,1,0,1,1,0,0,1,31 900 €
+MERCEDES,Gla,200 163ch AMG Line 7G-DCT,Essence /,82 602 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,31 900 €
+MINI,Countryman,Cooper SE 136ch + 88ch Chili ALL4 BVA,Hybride R /,64 200 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,31 900 €
+MERCEDES,Eqc,400 408ch AMG Line 4Matic 11cv,Electrique /,3 900 km,/ 2023 /,Automatique,0,0,0,1,1,1,1,31 900 €
+MERCEDES,Classe C Break,200 204ch AMG Line,Essence M /,7 500 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,31 900 €
+FIAT,Ducato,3.0 CH1 2.0 Multijet 115ch Pack Pro Nav,Diesel /,61 636 km,/ 2019 /,Manuelle,0,0,1,1,0,1,1,31 900 €
+RENAULT,Kangoo,1.5 Blue dCi 95ch Intens 5cv,Diesel /,54 523 km,/ 2020 /,Manuelle,1,0,1,1,1,0,0,31 900 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,29 857 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,31 900 €
+CITROEN,C3,PureTech 82ch Graphic S&S E6.d,Essence /,16 500 km,/ 2020 /,Manuelle,1,0,1,0,1,0,1,31 900 €
+FIAT,500,1.0 70ch BSG S&S (RED),Essence M /,100 km,/ 2024 /,Manuelle,1,0,1,1,0,0,0,31 900 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack,Essence /,16 280 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,31 900 €
+OPEL,Crossland X,1.2 Turbo 110ch Opel 2020 6cv,Essence /,67 573 km,/ 2020 /,Manuelle,1,1,1,1,1,1,1,31 900 €
+PEUGEOT,Expert,Compact 2.0 BlueHDi 180ch S&S Urban EAT8,Diesel /,35 654 km,/ 2021 /,Automatique,0,0,1,1,0,1,1,31 900 €
+RENAULT,Twingo,Electric Intens R80 Achat Intégral,Electrique /,12 208 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,31 900 €
+RENAULT,Clio,1.6 E-Tech 140ch RS Line -21,Hybride /,30 600 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,31 900 €
+NISSAN,Ariya,87kWh 242ch Evolve,Electrique /,3 142 km,/ 2023 /,Automatique,0,0,1,1,1,0,1,31 900 €
+BMW,X3,xDrive30e 292ch M Sport,Hybride R /,57 416 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,31 900 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta,Essence M /,37 353 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,31 900 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine E6.d,Diesel /,11 800 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,15 439 €
+VOLKSWAGEN,Polo,1.0 TSI 95ch Life,Essence /,46 854 km,/ 2022 /,Manuelle,1,1,1,1,0,0,0,15 439 €
+VOLKSWAGEN,Tiguan,1.4 eHybrid 245ch Life Plus DSG6,Hybride R /,5 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 439 €
+CITROEN,C5 Aircross,BlueHDi 180ch S&S Feel EAT8,Diesel /,115 600 km,/ 2018 /,Automatique,1,0,1,1,1,0,1,15 439 €
+CITROEN,C3,PureTech 68ch Feel E6.d-TEMP,Essence /,46 853 km,/ 2018 /,Manuelle,1,0,1,0,0,0,0,15 439 €
+MERCEDES,Gla,220 CDI Fascination 4Matic 7G-DCT,Diesel /,138 206 km,/ 2015 /,Automatique,0,0,1,1,1,1,1,15 439 €
+RENAULT,Clio,1.6 E-Tech hybride 145ch Techno,Hybride /,9 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,15 439 €
+RENAULT,Clio,1.5 Blue dCi 100ch Evolution,Diesel /,11 066 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,15 439 €
+VOLKSWAGEN,Golf,1.4 eHybrid OPF 204ch Style DSG6,Hybride R /,5 000 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,15 439 €
+TOYOTA,Aygo,1.0 VVT-i 72ch x-night x-shift 5p MY21,Essence /,7 322 km,/ 2021 /,Automatique,1,0,0,1,1,1,0,15 439 €
+RENAULT,Captur,0.9 TCe 90ch Business - 19,Essence /,33 337 km,/ 2019 /,Manuelle,1,0,1,1,0,0,1,15 439 €
+MERCEDES,Glc,250 d 204ch Sportline 4Matic 9G-Tronic,Diesel /,99 869 km,/ 2017 /,Automatique,1,1,1,1,1,0,1,15 439 €
+AUDI,Q2,30 TDI 116ch S line S tronic 7,Diesel /,53 869 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,15 439 €
+HYUNDAI,I20,1.2 84ch Intuitive,Essence /,43 103 km,/ 2020 /,Manuelle,1,0,1,1,0,1,1,15 439 €
+MERCEDES,Classe A,180 d 116ch Style Line 7G-DCT,Diesel /,52 642 km,/ 2018 /,Automatique,1,1,1,1,1,1,0,15 439 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Style EAT8,Diesel /,28 733 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,15 439 €
+DACIA,Spring,Confort Plus - Achat Intégral,Electrique /,15 602 km,/ 2021 /,Automatique,1,0,0,1,0,1,1,15 439 €
+RENAULT,Clio,1.0 TCe 90ch Equilibre,Essence /,10 588 km,/ 2023 /,Manuelle,1,1,1,1,0,0,0,15 439 €
+BMW,Serie 3 Touring,330dA xDrive 286ch M Sport,Diesel M /,30 250 km,/ 2023 /,Automatique,0,1,1,1,1,0,1,15 439 €
+NISSAN,Juke,1.6 Hybrid 143ch N-Connecta 2023,Hybride /,13 955 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,15 439 €
+RENAULT,Twizy,Intens 45,Electrique /,7 538 km,/ 2022 /,Automatique,0,0,0,0,0,0,0,15 439 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,15 443 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,15 439 €
+MERCEDES,Classe B,200d 136ch Sensation 7G-DCT Euro6c,Diesel /,107 265 km,/ 2018 /,Automatique,1,1,1,1,1,1,0,15 439 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,11 954 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,15 439 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21N,Essence /,23 042 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,15 439 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S C-Series E6.d,Diesel /,18 000 km,/ 2023 /,Manuelle,0,0,1,1,1,0,0,15 439 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Business 121g,Essence /,23 089 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,15 439 €
+LAND-ROVER,Range Rover,3.0 P510e 510ch PHEV Autobiography SWB,Hybride R /,6 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,15 439 €
+NISSAN,Qashqai,1.3 DIG-T 160ch Tekna+ 2019,Essence /,85 731 km,/ 2019 /,Manuelle,0,0,1,1,1,1,1,15 439 €
+RENAULT,Zoe,E-Tech Life charge normale R110 Achat Intégral - 21,Electrique /,28 788 km,/ 2021 /,Automatique,1,1,1,0,0,0,0,15 439 €
+BMW,X5,xDrive40eA 313ch M Sport,Hybride R /,86 368 km,/ 2018 /,Automatique,0,0,1,1,1,1,1,38 890 €
+FORD,Kuga,2.5 Duratec 190ch FHEV E85 ST-Line Business BVA,Hybride /,4 997 km,/ 2024 /,Automatique,1,0,1,1,1,1,1,38 890 €
+LEXUS,Ct,200h Luxe MY20,Hybride /,35 968 km,/ 2019 /,Automatique,0,1,1,1,1,1,0,38 890 €
+HONDA,Cr-V,2.0 i-MMD 184ch Exclusive 4WD AT,Hybride /,41 275 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,38 890 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch S&S GT Line,Essence /,44 610 km,/ 2018 /,Manuelle,1,1,1,1,1,0,1,38 890 €
+PEUGEOT,208,e-208 136ch GT Line,Electrique /,61 000 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,38 890 €
+RENAULT,Twingo,1.0 SCe 65ch Zen - 21,Essence /,29 306 km,/ 2022 /,Manuelle,1,0,0,1,1,0,0,38 890 €
+OPEL,Combo Cargo,L1H1 650kg 1.5 100ch S&S Pack Clim,Diesel /,46 579 km,/ 2021 /,Manuelle,0,0,1,1,0,0,1,38 890 €
+DACIA,Sandero,1.0 ECO-G 100ch Expression,Gpl /,9 500 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,38 890 €
+MERCEDES,Cla,200 d 150ch Progressive Line 8G-DCT 8cv,Diesel /,53 972 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,38 890 €
+MINI,Countryman,Cooper 136ch Northwood BVA7,Essence /,39 248 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,38 890 €
+LAND-ROVER,Range Rover Evoque,1.5 P300e 309ch R-Dynamic AWD BVA 11cv,Hybride R /,13 836 km,/ 2020 /,Automatique,1,1,1,1,1,1,1,38 890 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch S&S Active Pack EAT8,Essence /,10 km,/ 2023 /,Automatique,1,1,1,0,1,0,1,38 890 €
+PEUGEOT,Expert,M 100 kW Batterie 75 kWh,Electrique /,10 000 km,/ 2022 /,Automatique,0,0,1,0,0,0,1,38 890 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,20 029 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,38 890 €
+CITROEN,C4 X,Moteur électrique 136ch (100 kW) Shine Automatique,Electrique /,5 700 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,38 890 €
+PEUGEOT,308,1.2 PureTech 110ch S&S Allure 6cv,Essence /,22 089 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,38 890 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S Active Pack,Diesel /,230 km,/ 2023 /,Manuelle,1,1,1,0,1,0,1,38 890 €
+BMW,X1,sDrive20d 190ch M Sport,Diesel /,94 225 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,38 890 €
+BMW,Serie 1,116d 116ch Sport 5p,Diesel /,114 613 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,38 890 €
+CITROEN,C5 Aircross,Hybrid rechargeable 225ch Feel Pack ë-EAT8,Hybride R /,12 300 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,38 890 €
+TOYOTA,Corolla,1.8 140ch GR Sport MY24,Hybride /,7 235 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,38 890 €
+PEUGEOT,308 Sw,PHEV 225ch GT e-EAT8,Hybride R /,8 641 km,/ 2024 /,Automatique,1,1,1,0,1,1,1,38 890 €
+RENAULT,Captur,0.9 TCe 90ch Intens - 19,Essence /,44 170 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,38 890 €
+FORD,Fiesta,1.0 EcoBoost 95ch Cool & Connect 5p,Essence /,18 617 km,/ 2020 /,Manuelle,1,0,1,0,0,0,0,38 890 €
+DACIA,Sandero,1.0 TCe 90ch Confort,Essence /,42 907 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,38 890 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,5 331 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,38 890 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Business EAT8,Essence /,34 340 km,/ 2021 /,Automatique,1,0,1,1,0,0,1,38 890 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,4 755 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,38 890 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Shine E6.d,Essence /,37 091 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,38 890 €
+RENAULT,Zoe,Zen charge normale,Electrique /,38 561 km,/ 2015 /,Automatique,1,0,1,1,1,0,0,7 499 €
+CITROEN,C3 Aircross,BlueHDi 120ch S&S Shine EAT6,Diesel /,26 000 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,7 499 €
+NISSAN,Qashqai,1.7 dCi 150ch Tekna Euro6d-T,Diesel /,67 050 km,/ 2020 /,Manuelle,0,0,1,1,1,1,1,7 499 €
+PEUGEOT,508 Sw,PureTech 130ch S&S GT EAT8,Essence /,8 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,7 499 €
+NISSAN,Leaf,150ch 40kWh Tekna,Electrique /,26 984 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,7 499 €
+PEUGEOT,2008,1.2 PureTech 82ch Style,Essence /,107 041 km,/ 2017 /,Manuelle,1,1,1,0,0,0,0,7 499 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,16 569 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,7 499 €
+PEUGEOT,2008,1.2 PureTech 130ch Urban Cross S&S,Essence /,95 700 km,/ 2016 /,Manuelle,1,1,1,1,0,0,0,7 499 €
+RENAULT,Clio,1.0 TCe 90ch Equilibre,Essence /,10 km,/ 2023 /,Manuelle,1,1,1,1,0,0,0,7 499 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Feel E6.d,Diesel /,78 200 km,/ 2021 /,Manuelle,0,0,1,1,0,0,0,7 499 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,5 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,7 499 €
+PEUGEOT,3008,1.2 PureTech 130ch Allure S&S EAT8 6cv,Essence /,103 295 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,7 499 €
+VOLVO,Xc40,D3 AdBlue AWD 150ch R-Design Geartronic 8,Diesel /,60 334 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,7 499 €
+HYUNDAI,Kona,Electric 39kWh - 136ch Creative,Electrique /,8 520 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,7 499 €
+RENAULT,Grand Scenic,1.7 Blue dCi 120ch Intens EDC,Diesel /,56 186 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,7 499 €
+MERCEDES,Glc Coupe,300 e 211+122ch AMG Line 4Matic 9G-Tronic Euro6d-T-EVAP-ISC,Hybride R /,50 047 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,7 499 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,21 129 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,7 499 €
+BMW,Serie 5,520dA xDrive 197ch M Sport,Diesel M /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,7 499 €
+CITROEN,Berlingo Van,XL 950kg PureTech 110 S&S Driver,Essence /,39 232 km,/ 2019 /,Manuelle,0,0,1,1,0,1,1,7 499 €
+RENAULT,Twingo,Electric Life R80 Achat Intégral 3CV,Electrique /,10 468 km,/ 2021 /,Automatique,1,0,0,0,0,0,0,7 499 €
+FORD,Mustang Mach-E,Extended Range 99kWh 294ch 7cv,Electrique /,40 291 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,7 499 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,20 408 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,7 499 €
+BMW,Z4 Roadster,sDrive20iA 197ch M Sport,Essence /,62 457 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,7 499 €
+RENAULT,Captur,1.6 E-Tech hybride 145ch Intens -21,Hybride /,24 860 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,7 499 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,56 065 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,7 499 €
+DACIA,Spring,Confort Plus - Achat Intégral,Electrique /,2 458 km,/ 2021 /,Automatique,1,0,0,1,0,1,1,7 499 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,41 202 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,7 499 €
+BMW,Serie 3 Touring,330dA MH xDrive 286ch M Sport 17cv,Diesel M /,125 753 km,/ 2021 /,Automatique,0,1,0,1,1,0,1,7 499 €
+MG,Ehs,1.5T GDI 258ch PHEV Luxury,Hybride R /,9 500 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,7 499 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21N,Essence /,69 687 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,7 499 €
+NISSAN,Qashqai,1.5 dCi 115ch Business Edition 2019 Euro6-EVAP,Diesel /,80 764 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,18 299 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT EAT8,Essence /,32 325 km,/ 2022 /,Automatique,1,1,1,1,1,1,1,18 299 €
+MERCEDES,Glc Coupe,300 e 211+122ch AMG Line 4Matic 9G-Tronic Euro6d-T-EVAP-ISC,Hybride R /,95 033 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,18 299 €
+BMW,Serie 1,118dA 150ch M Sport,Diesel /,10 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,18 299 €
+VOLKSWAGEN,Polo,1.0 TSI 110ch Style DSG7,Essence /,12 500 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,18 299 €
+PEUGEOT,5008,1.2 PureTech 130ch Allure S&S,Essence /,92 795 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,18 299 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Intens,Hybride R /,17 432 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,18 299 €
+RENAULT,Zoe,Zen charge normale R110 Achat Intégral - 20,Electrique /,19 342 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,18 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,35 100 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,18 299 €
+DS,Ds 7 Crossback,BlueHDi 130ch Performance Line 102g,Diesel /,84 483 km,/ 2019 /,Manuelle,1,0,0,0,1,0,1,18 299 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Rip Curl,Essence /,7 233 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,18 299 €
+SUZUKI,S-Cross,1.4 Boosterjet Hybrid 129ch Style Euro6d-T,Essence M /,63 516 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,18 299 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,39 137 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,18 299 €
+PEUGEOT,3008,"3008 STYLE 1,2L PureTech 130 S&S BVM6",Essence /,60 841 km,/ 2016 /,Manuelle,1,0,1,1,1,0,0,18 299 €
+MERCEDES,Eqa,250+ 190ch AMG Line,Electrique /,13 121 km,/ 2023 /,Automatique,0,1,0,1,1,1,1,18 299 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT,Essence /,14 400 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,18 299 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active PACK,Essence /,1 km,/ 2023 /,Manuelle,1,0,1,1,0,0,0,18 299 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack 118g,Essence /,9 928 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,18 299 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,3 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,18 299 €
+MERCEDES,Classe A,180 d 116ch Progressive Line 7G-DCT,Diesel /,100 504 km,/ 2018 /,Automatique,0,1,1,1,1,1,1,18 299 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Business EDC,Essence M /,22 201 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,18 299 €
+PEUGEOT,3008,1.2 PureTech 130ch GT Line S&S,Essence /,97 695 km,/ 2017 /,Manuelle,0,1,1,1,1,0,1,18 299 €
+RENAULT,Captur,1.6 E-Tech Plug-in 160ch Intens,Hybride R /,66 959 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,18 299 €
+LEXUS,Rx,450h 4WD Executive MY22,Hybride /,2 500 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,18 299 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,8 000 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,18 299 €
+MERCEDES,Classe A,250 e 163+109ch AMG Line 8G-DCT,Hybride R /,7 500 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,18 299 €
+OPEL,Corsa,1.2 Turbo 100ch Elegance,Essence /,33 920 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,18 299 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,38 488 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,18 299 €
+CITROEN,C1,VTi 72 S&S Feel 5p E6.d-TEMP,Essence /,3 000 km,/ 2019 /,Manuelle,1,0,0,0,0,0,0,18 299 €
+MERCEDES,Classe E Coupe,300 258ch AMG Line 9G-Tronic,Essence M /,7 384 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,18 299 €
+RENAULT,Arkana,1.3 TCe 140ch FAP RS Line EDC -21B,Essence M /,30 427 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,24 999 €
+RENAULT,Clio,1.0 TCe 90ch Evolution,Essence /,12 213 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,24 999 €
+MERCEDES,Classe C Break,300 e 204+129ch AMG Line,Hybride R /,10 000 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,24 999 €
+DS,Ds 7 Crossback,E-TENSE 225ch Performance Line +,Hybride R /,63 783 km,/ 2021 /,Automatique,1,0,0,0,1,1,0,24 999 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel E6.d,Essence /,34 635 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,24 999 €
+RENAULT,Kadjar,1.2 TCe 130ch energy Black Edition EDC,Essence /,44 038 km,/ 2017 /,Automatique,0,0,1,1,1,1,1,24 999 €
+BMW,Serie 5,i5 M60 xDrive40 601ch,Electrique /,8 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,24 999 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens - 20,Essence /,29 836 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,24 999 €
+RENAULT,Megane,1.5 Blue dCi 115ch Evolution EDC,Diesel /,20 000 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,24 999 €
+MERCEDES,Vito,114 CDI Long Pro Traction,Diesel /,103 521 km,/ 2021 /,Manuelle,0,1,1,1,1,1,0,24 999 €
+RENAULT,Kadjar,1.3 TCe 140ch FAP ESF EDC,Essence /,41 568 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,24 999 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT Line,Essence /,37 166 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,24 999 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S GT EAT8,Essence /,9 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,24 999 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta + Pack Design,Essence M /,34 925 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,24 999 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,11 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,24 999 €
+PEUGEOT,3008,HYBRID 225ch Allure Pack e-EAT8,Hybride /,38 710 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,24 999 €
+NISSAN,Nv300,L2H1 3t0 1.6 dCi 125ch S/S N-Connecta,Diesel /,68 939 km,/ 2019 /,Manuelle,0,0,1,1,0,1,1,24 999 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure EAT8,Essence /,26 205 km,/ 2023 /,Automatique,0,1,1,1,1,0,1,24 999 €
+DACIA,Duster,1.2 TCe 125ch BLACK TOUCH 4X2,Essence /,50 191 km,/ 2018 /,Manuelle,1,0,0,1,0,0,0,24 999 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Pack EAT6,Essence /,15 568 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,24 999 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,68 801 km,/ 2020 /,Automatique,1,0,1,1,1,0,0,24 999 €
+CITROEN,C4,BlueHDi 130ch S&S Shine Pack EAT8,Diesel /,7 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,24 999 €
+DS,Ds 3 Crossback,E-Tense Performance Line +,Electrique /,19 889 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,24 999 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,19 317 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,24 999 €
+PEUGEOT,208,1.2 PureTech 82ch E6.c Signature 5p,Essence /,30 500 km,/ 2019 /,Manuelle,1,0,1,0,0,0,1,24 999 €
+PEUGEOT,3008,Plug-in HYBRID 225ch GT e-EAT8,Hybride R /,10 700 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,24 999 €
+RENAULT,Twingo,1.0 SCe 65ch Zen - 21,Essence /,33 879 km,/ 2021 /,Manuelle,1,0,0,1,1,0,0,24 999 €
+VOLVO,Xc40,Recharge 231ch Plus EDT,Electrique /,37 554 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,24 999 €
+PEUGEOT,508,HYBRID4 360ch e-EAT8 PEUGEOT SPORT ENGINEERED,Hybride R /,31 687 km,/ 2021 /,Automatique,1,0,1,0,1,1,1,24 999 €
+PEUGEOT,Expert,Long 2.0 BlueHDi 120ch S&S Cabine Approfondie Fixe Premium EAT8,Diesel /,48 620 km,/ 2021 /,Automatique,0,0,1,1,0,0,1,24 999 €
+CITROEN,C3,1.2 PureTech 83ch S&S YOU#,Essence /,3 649 km,/ 2023 /,Manuelle,1,1,1,1,0,0,0,16 490 €
+BMW,Serie 1,118i 136ch M Sport,Essence /,5 013 km,/ 2023 /,Manuelle,1,1,1,1,1,1,0,16 490 €
+CITROEN,C3 Aircross,BlueHDi 120ch S&S C-Series EAT6 E6.d-TEMP,Diesel /,87 958 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,16 490 €
+MERCEDES,Gla,200 d 150ch AMG Line 8G-DCT,Diesel /,59 486 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,16 490 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c GT Line S&S,Essence /,61 000 km,/ 2019 /,Manuelle,1,1,1,0,1,1,1,16 490 €
+DACIA,Duster,1.3 TCe 150ch FAP Techroad 4x2,Essence /,49 683 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,16 490 €
+SEAT,Arona,1.0 EcoTSI 95ch Start/Stop Urban Euro6d-T,Essence /,7 735 km,/ 2019 /,Manuelle,1,1,1,1,0,1,1,16 490 €
+RENAULT,Espace,1.2 E-Tech full hybrid 200ch Iconic,Hybride /,9 500 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,16 490 €
+PEUGEOT,508,BlueHDi 130ch S&S GT EAT8,Diesel /,19 900 km,/ 2023 /,Automatique,1,0,1,0,1,1,1,16 490 €
+MINI,Countryman,Cooper 136ch Northwood,Essence /,51 508 km,/ 2020 /,Manuelle,0,0,1,1,1,1,1,16 490 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,44 821 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,16 490 €
+JAGUAR,E-Pace,2.0D 180ch R-Dynamic AWD,Diesel /,83 583 km,/ 2019 /,Manuelle,1,1,1,1,1,1,1,16 490 €
+RENAULT,Espace,1.2 E-Tech full hybrid 200ch Iconic,Hybride /,9 990 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,16 490 €
+CITROEN,C1,VTi 72 Feel 5p,Essence /,43 442 km,/ 2018 /,Manuelle,1,0,0,0,0,0,0,16 490 €
+PEUGEOT,208,e-208 136ch Active Business,Electrique /,31 294 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,16 490 €
+FIAT,500,e 118ch Icône,Electrique /,50 200 km,/ 2021 /,Automatique,0,0,1,1,1,0,1,16 490 €
+RENAULT,Megane,1.5 Blue dCi 115ch Business,Diesel /,86 162 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,16 490 €
+RENAULT,Zoe,Intens charge normale R110 Achat Intégral,Electrique /,51 676 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,16 490 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort -22,Gpl /,9 927 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,16 490 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,13 280 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,16 490 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,58 330 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,16 490 €
+PEUGEOT,308 Sw,1.5 BlueHDi 130ch S&S GT Line EAT8,Diesel /,105 772 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,16 490 €
+PEUGEOT,308 Sw,1.5 BlueHDi 130ch S&S GT Line EAT8,Diesel /,105 772 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,16 490 €
+TOYOTA,Proace City Verso,Long Electric 50kWh Executive,Electrique /,9 790 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,16 490 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch RS Line -21N,Hybride /,32 632 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,16 490 €
+MINI,Countryman,Cooper SD 190ch Yours BVA8,Diesel /,114 599 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,16 490 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT EAT8,Essence /,43 910 km,/ 2022 /,Automatique,1,1,1,1,1,1,1,16 490 €
+PEUGEOT,308,PHEV 180ch GT e-EAT8,Hybride R /,7 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,16 490 €
+VOLKSWAGEN,Golf Sw,2.0 TSI 300ch BlueMotion Technology R 4Motion DSG6,Essence /,99 609 km,/ 2015 /,Automatique,1,0,1,1,1,0,1,16 490 €
+CITROEN,C5 X,Hybrid 225ch Feel Business ëEAT8,Hybride /,14 190 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,16 490 €
+AUDI,A5 Sportback,2.0 TDI 190ch clean diesel Ambition Luxe Multitronic Euro6,Diesel /,20 653 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,26 499 €
+TOYOTA,Highlander,2.5 Hybrid 248ch Lounge AWD-I MY23,Hybride /,9 900 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,26 499 €
+RENAULT,Scenic,1.3 TCe 115ch FAP Limited,Essence /,80 462 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,26 499 €
+RENAULT,Captur,0.9 TCe 90ch Business - 19,Essence /,88 506 km,/ 2019 /,Manuelle,1,0,1,1,0,0,1,26 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,5 867 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,26 499 €
+MERCEDES,Gla,200 156ch Sport Edition 7G-DCT Euro6d-T,Essence /,46 530 km,/ 2019 /,Automatique,1,1,1,1,1,1,0,26 499 €
+NISSAN,Qashqai,1.5 dCi 110ch N-Connecta 99g,Diesel /,56 200 km,/ 2017 /,Manuelle,1,0,1,1,1,1,1,26 499 €
+PEUGEOT,2008,1.2 PureTech 110ch E6.c Allure S&S EAT6,Essence /,84 779 km,/ 2019 /,Automatique,1,1,1,0,1,0,1,26 499 €
+DACIA,Duster,1.3 TCe 150ch FAP Prestige 4x2 EDC,Essence /,12 561 km,/ 2021 /,Automatique,1,0,1,1,1,1,1,26 499 €
+RENAULT,Zoe,Zen charge normale R90 MY19,Electrique /,4 699 km,/ 2020 /,Automatique,1,0,1,1,1,0,0,26 499 €
+PORSCHE,911 Coupe,4.0 510ch GT3 Pack Touring PDK,Essence /,1 061 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,26 499 €
+TOYOTA,Auris,HSD 136h Collection RC18,Hybride /,61 163 km,/ 2019 /,Automatique,1,0,1,1,1,1,0,26 499 €
+VOLVO,Xc90,T8 AWD 310 + 145ch Ultimate Style Dark Geartronic,Hybride R /,8 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,26 499 €
+VOLKSWAGEN,T-Cross,1.0 TSI 110ch Style DSG7,Essence /,32 851 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,26 499 €
+SEAT,Arona,1.5 TSI ACT 150ch FR DSG7,Essence /,16 552 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,26 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S Shine,Essence /,42 900 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,26 499 €
+NISSAN,Juke,1.0 DIG-T 114ch Tekna 2021.5,Essence /,32 258 km,/ 2022 /,Manuelle,1,1,1,1,1,1,1,26 499 €
+AUDI,A1 Sportback,1.0 TFSI 95ch ultra Ambiente,Essence /,36 510 km,/ 2018 /,Manuelle,1,0,1,1,1,0,0,26 499 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure EAT8,Essence /,4 788 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,26 499 €
+RENAULT,Twingo,1.0 SCe 65ch Zen - 21,Essence /,10 149 km,/ 2021 /,Manuelle,1,0,0,1,1,0,0,26 499 €
+VOLKSWAGEN,T-Roc Cabriolet,1.0 TSI 110ch Style,Essence /,6 000 km,/ 2023 /,Manuelle,1,0,1,1,1,1,1,26 499 €
+CITROEN,C4 Cactus,BlueHDi 100 Feel,Diesel /,110 280 km,/ 2016 /,Manuelle,1,0,1,1,0,0,0,26 499 €
+VOLKSWAGEN,E-Up!,Electrique 83ch Life Plus,Electrique /,5 000 km,/ 2023 /,Automatique,1,0,1,1,1,1,1,26 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Business EAT8,Essence /,45 320 km,/ 2020 /,Automatique,1,0,1,1,0,0,1,26 499 €
+SKODA,Superb,1.4 TSI ACT 150ch Ambition,Essence /,96 852 km,/ 2016 /,Manuelle,1,0,1,1,0,0,0,26 499 €
+NISSAN,Juke,1.0 DIG-T 117ch Tekna,Essence /,40 675 km,/ 2020 /,Manuelle,1,1,1,1,1,1,1,26 499 €
+CITROEN,C3,1.2 PureTech 83ch S&S C-Series 123g,Essence /,17 066 km,/ 2023 /,Manuelle,0,0,1,1,1,0,0,26 499 €
+MERCEDES,Glc,300 e 211+122ch AMG Line 4Matic 9G-Tronic Euro6d-T-EVAP-ISC,Hybride R /,59 122 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,26 499 €
+SEAT,Leon,1.0 TSI 115ch Style 105g,Essence /,34 589 km,/ 2019 /,Manuelle,1,1,1,1,1,0,1,26 499 €
+MERCEDES,Gla,45 S AMG 421ch 4Matic+ 8G-DCT Speedshift AMG,Essence /,50 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,26 499 €
+RENAULT,Kangoo,E-Tech Electric EV45 120ch DC80kW Techno,Electrique /,100 km,/ 2023 /,Automatique,1,1,1,1,1,1,1,40 790 €
+PEUGEOT,2008,1.2 PureTech 82ch Style,Essence /,53 556 km,/ 2017 /,Manuelle,1,1,1,0,0,0,0,40 790 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,3 450 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,40 790 €
+MERCEDES,Classe Sl,43 AMG 381h 9G Speedshift MCT AMG,Essence M /,5 203 km,/ 2022 /,Automatique,0,0,1,1,1,1,0,40 790 €
+RENAULT,Captur,1.5 dCi 90ch energy Business Euro6c,Diesel /,54 923 km,/ 2019 /,Manuelle,1,0,1,1,0,0,1,40 790 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,1 939 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,40 790 €
+PEUGEOT,308,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,27 626 km,/ 2022 /,Automatique,1,1,1,0,1,1,1,40 790 €
+TOYOTA,Yaris,116h France Business 5p + Stage Hybrid Academy,Hybride /,36 127 km,/ 2021 /,Automatique,1,0,1,1,1,1,0,40 790 €
+PEUGEOT,2008,e-2008 136ch Allure,Electrique /,2 500 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,40 790 €
+RENAULT,Captur,1.5 Blue dCi 115ch Intens EDC,Diesel /,61 962 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,40 790 €
+NISSAN,Qashqai,1.3 DIG-T 160ch N-Connecta DCT Euro6d-T,Essence /,57 300 km,/ 2019 /,Automatique,1,0,1,1,1,1,1,40 790 €
+RENAULT,Zoe,Zen charge normale R110 - 20,Electrique /,32 682 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,40 790 €
+FORD,Puma,1.5 EcoBlue 120ch ST-Line 6cv,Diesel /,22 424 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,40 790 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Shine,Essence /,36 467 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,40 790 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active Pack,Essence /,40 653 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,40 790 €
+MINI,Mini,Cooper SE 184ch Edition Greenwich BVA,Electrique /,44 179 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,40 790 €
+BMW,X5,xDrive45e 394ch M Sport 17cv,Hybride R /,89 314 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,40 790 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,3 590 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,40 790 €
+PEUGEOT,308,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,8 000 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,40 790 €
+CITROEN,C3,PureTech 82ch Shine S&S E6.d,Essence /,22 692 km,/ 2020 /,Manuelle,1,0,1,0,1,0,1,40 790 €
+PEUGEOT,208,e-208 136ch Style,Electrique /,41 622 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,40 790 €
+RENAULT,Twingo,Electric Intens R80 Achat Intégral,Electrique /,25 762 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,40 790 €
+VOLKSWAGEN,Tiguan,2.0 TDI 150ch BlueMotion Technology Carat,Diesel /,61 435 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,40 790 €
+NISSAN,Juke,1.0 DIG-T 114ch Enigma DCT 2021.5,Essence /,38 106 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,40 790 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Style,Essence /,16 019 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,40 790 €
+CITROEN,C4,PureTech 130ch S&S Shine EAT8,Essence /,21 000 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,40 790 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,9 426 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,40 790 €
+MERCEDES,Classe C Coupe,200 184ch Sportline 4Matic 9G-Tronic,Essence /,81 033 km,/ 2016 /,Automatique,1,1,1,1,1,0,1,40 790 €
+CITROEN,Grand C4 Spacetourer,PureTech 130ch S&S Feel E6.d,Essence /,41 197 km,/ 2021 /,Manuelle,1,0,1,1,1,0,1,40 790 €
+ALFA ROMEO,Tonale,1.5 Hybrid 130ch Sprint TCT,Essence M /,26 726 km,/ 2022 /,Automatique,0,1,1,1,1,0,1,40 790 €
+MERCEDES,Classe A,250 e 160+102ch AMG Line 8G-DCT 8cv,Hybride R /,63 849 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,33 990 €
+RENAULT,Master,F3500 L3 2.3 Blue dCi 165ch Confort EuroVI Caisse Frigo 16m3,Diesel /,10 km,/ 2023 /,Manuelle,0,0,1,1,0,0,0,33 990 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,9 496 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,33 990 €
+MERCEDES,Gla,180 122ch Sensation 7G-DCT Euro6d-T,Essence /,61 978 km,/ 2018 /,Automatique,1,1,1,1,1,1,0,33 990 €
+PEUGEOT,2008,1.2 PureTech 110ch Allure S&S,Essence /,94 447 km,/ 2018 /,Manuelle,1,1,1,0,1,0,1,33 990 €
+FORD,Focus,1.0 EcoBoost 125ch mHEV ST-Line,Essence M /,40 775 km,/ 2020 /,Manuelle,0,0,1,1,1,1,1,33 990 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,13 673 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,33 990 €
+PEUGEOT,308,PHEV 180ch Allure Pack e-EAT8,Hybride R /,15 000 km,/ 2022 /,Automatique,1,1,1,0,1,1,1,33 990 €
+PEUGEOT,208,1.5 BlueHDi 100ch E6.c Signature BVM5 86g 5p,Diesel /,41 212 km,/ 2019 /,Manuelle,1,0,1,0,0,0,1,33 990 €
+RENAULT,Clio,1.6 E-Tech hybride 140ch Business -21N,Hybride /,65 334 km,/ 2022 /,Automatique,1,1,1,1,0,0,1,33 990 €
+RENAULT,Clio,1.3 TCe 140ch Techno,Essence /,9 214 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,33 990 €
+CITROEN,Grand C4 Spacetourer,PureTech 130ch S&S Feel E6.d,Essence /,16 705 km,/ 2021 /,Manuelle,1,0,1,1,1,0,1,33 990 €
+FORD,Kuga,2.5 Duratec 190ch FHEV E85 ST-Line BVA,Hybride /,49 024 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,33 990 €
+RENAULT,Arkana,1.6 E-Tech hybride 145ch Techno -22,Hybride /,9 999 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 990 €
+MERCEDES,Classe C All-Terrain,200 204ch 4Matic 9G-Tronic,Essence M /,18 448 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,33 990 €
+RENAULT,Clio,1.6 E-Tech 140ch Business,Hybride /,50 161 km,/ 2020 /,Automatique,1,1,1,1,0,0,1,33 990 €
+CITROEN,C5 X,Hybride rechargeable 225ch Shine Pack ëEAT8,Hybride R /,31 546 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,33 990 €
+LAND-ROVER,Range Rover Evoque,2.0 P200 200ch Flex Fuel Dynamic HSE,Essence B /,10 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,0,33 990 €
+RENAULT,Zoe,Life charge normale R90 Achat Intégral MY19,Electrique /,17 685 km,/ 2019 /,Automatique,1,0,1,1,0,0,0,33 990 €
+DACIA,Sandero,1.0 SCe 75ch Evasion,Essence /,43 645 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,33 990 €
+AUDI,Q7,3.0 V6 TDI 373ch e-tron Avus quattro Tiptronic,Hybride R /,113 727 km,/ 2017 /,Automatique,0,0,1,1,1,1,1,33 990 €
+OPEL,Crossland X,1.2 Turbo 110ch Design 120 ans Euro 6d-T,Essence /,62 099 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,33 990 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Extreme,Gpl /,9 500 km,/ 2024 /,Manuelle,1,1,1,1,1,1,1,33 990 €
+CITROEN,C3,PureTech 82ch Graphic,Essence /,43 142 km,/ 2018 /,Manuelle,1,0,1,0,1,0,0,33 990 €
+NISSAN,Qashqai,1.7 dCi 150ch Tekna 2019,Diesel /,87 102 km,/ 2019 /,Manuelle,0,1,1,1,1,1,1,33 990 €
+LAND-ROVER,Range Rover Evoque,1.5 P300e 309ch Dynamic SE,Hybride R /,10 000 km,/ 2024 /,Automatique,0,1,1,1,1,1,0,33 990 €
+LAND-ROVER,Range Rover Velar,2.0 P400e 404ch PHEV Dynamic HSE AWD BVA,Hybride R /,10 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,33 990 €
+PEUGEOT,208,e-208 136ch Allure,Electrique /,43 704 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,33 990 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Active Pack EAT8,Diesel /,27 659 km,/ 2022 /,Automatique,1,1,1,1,1,1,1,33 990 €
+VOLKSWAGEN,T-Roc,2.0 TDI 150ch First Edition 4Motion DSG7,Diesel /,111 289 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,33 990 €
+MERCEDES,Classe A,250 e 160+102ch Progressive Line 8G-DCT 8cv,Hybride R /,65 744 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,27 799 €
+RENAULT,Megane,1.5 Blue dCi 115ch Intens,Diesel /,69 650 km,/ 2020 /,Manuelle,0,1,1,1,1,1,1,27 799 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,65 354 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,27 799 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c GT Line S&S,Essence /,66 793 km,/ 2018 /,Manuelle,1,1,1,0,1,0,1,27 799 €
+RENAULT,Clio,1.0 TCe 100ch Evolution GPL,Gpl /,11 398 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,27 799 €
+NISSAN,Qashqai,1.2 DIG-T 115ch N-Connecta,Essence /,51 479 km,/ 2017 /,Manuelle,1,0,1,1,1,1,1,27 799 €
+CITROEN,C5 Aircross,BlueHDi 130ch S&S Shine E6.d,Diesel /,43 601 km,/ 2021 /,Manuelle,0,1,1,1,1,0,1,27 799 €
+TOYOTA,Corolla,1.8 140ch Design MY23,Hybride /,17 214 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,27 799 €
+CITROEN,C3,1.2 PureTech 110ch S&S Shine Business 121g,Essence /,22 702 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,27 799 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,34 957 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,27 799 €
+DS,Ds 7 Crossback,E-TENSE 4x4 300ch Louvre,Hybride R /,64 732 km,/ 2021 /,Automatique,1,0,0,0,1,1,0,27 799 €
+VOLKSWAGEN,Tiguan,2.0 TDI 150ch Carat 4Motion DSG7 Euro6d-T,Diesel /,95 000 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,27 799 €
+RENAULT,Arkana,1.6 E-Tech hybride 145ch RS Line Fast Track,Hybride /,19 359 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,27 799 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel,Essence /,35 438 km,/ 2021 /,Manuelle,1,1,1,1,0,0,0,27 799 €
+RENAULT,Clio,1.0 TCe 90ch Evolution,Essence /,7 851 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,27 799 €
+CITROEN,Berlingo Van,M 650kg BlueHDi 100 S&S Driver,Diesel /,39 716 km,/ 2022 /,Manuelle,0,0,1,1,0,1,1,27 799 €
+RENAULT,Captur,1.3 TCe 155ch FAP Initiale Paris EDC,Essence /,62 111 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,27 799 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,11 349 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,27 799 €
+PEUGEOT,5008,2.0 BlueHDi 180ch S&S GT EAT8,Diesel /,93 868 km,/ 2018 /,Automatique,0,1,1,1,1,0,1,27 799 €
+VOLKSWAGEN,Transporter,2.8T L1H1 2.0 TDI 110ch Business Plus,Diesel /,10 000 km,/ 2023 /,Manuelle,0,0,1,1,1,0,1,27 799 €
+PEUGEOT,208,1.2 PureTech 82ch Allure 5p,Essence /,61 694 km,/ 2018 /,Manuelle,1,0,1,0,1,0,1,27 799 €
+OPEL,Grandland X,1.2 Turbo 130ch Ultimate BVA8,Essence /,40 931 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,27 799 €
+MERCEDES,Glb,200d 150ch AMG Line 8G DCT,Diesel /,13 416 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,27 799 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,6 872 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,27 799 €
+LAND-ROVER,Range Rover Evoque,2.0 P 200ch Flex Fuel R-Dynamic SE AWD BVA Mark III,Essence B /,10 000 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,27 799 €
+RENAULT,Kadjar,1.5 dCi 110ch energy Intens eco²,Diesel /,101 806 km,/ 2017 /,Manuelle,0,1,1,1,1,1,1,27 799 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,5 739 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,27 799 €
+RENAULT,Clio,1.0 TCe 100ch Intens GPL -21,Gpl /,32 222 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,27 799 €
+PEUGEOT,Partner Tepee,1.2 PureTech Style S&S,Essence /,98 721 km,/ 2018 /,Manuelle,1,0,1,1,0,0,0,27 799 €
+CITROEN,C5 Aircross,BlueHDi 130ch S&S Shine Pack EAT8 E6.d,Diesel /,79 631 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,27 799 €
+BMW,Ix,xDrive50 523ch,Electrique /,29 395 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,70 900 €
+VOLKSWAGEN,Polo,1.0 TSI 95ch Style DSG7,Essence /,12 311 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,70 900 €
+RENAULT,Kangoo,1.5 Blue dCi 115ch Techno EDC,Diesel /,4 177 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,70 900 €
+MERCEDES,Classe C Break,200 d 160ch AMG Line 9G-Tronic,Diesel /,79 237 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,70 900 €
+TOYOTA,Proace City,Electric Long 50 kWh Business,Electrique /,10 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,70 900 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Zen EDC,Essence M /,14 177 km,/ 2021 /,Automatique,1,1,1,1,1,1,1,70 900 €
+PEUGEOT,308,PHEV 180ch Allure e-EAT8,Hybride R /,28 643 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,70 900 €
+BMW,X3,xDrive30eA 292ch M Sport 10cv,Hybride R /,64 422 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,70 900 €
+CITROEN,C4 Spacetourer,PureTech 130ch S&S Rip Curl E6.d-TEMP,Essence /,82 418 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,70 900 €
+VOLKSWAGEN,Id.3,204ch Pro Performance 58 kWh Style,Electrique /,6 990 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,70 900 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,12 973 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,70 900 €
+MERCEDES,Glc,300 de 194+122ch AMG Line 4Matic 9G-Tronic,Hybride R /,93 002 km,/ 2021 /,Automatique,1,0,1,1,1,1,1,70 900 €
+MERCEDES,Classe C,200 d 160ch AMG Line 9G-Tronic,Diesel /,25 437 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,70 900 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,70 900 €
+DACIA,Spring,Business 2020,Electrique /,78 026 km,/ 2020 /,Automatique,1,0,0,1,0,0,1,70 900 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active Pack,Essence /,19 051 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,70 900 €
+CITROEN,C3,PureTech 110ch Shine S&S EAT6 E6.d,Essence /,98 286 km,/ 2019 /,Automatique,1,0,1,0,1,0,1,70 900 €
+VOLKSWAGEN,Polo,1.0 TSI 95ch Life,Essence /,16 187 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,70 900 €
+CITROEN,C4,PureTech 130ch S&S Feel Pack Business EAT8,Essence /,62 626 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,70 900 €
+FORD,C-Max,1.0 EcoBoost 125ch Stop&Start Titanium Euro6.2,Essence /,14 305 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,70 900 €
+RENAULT,Captur,1.3 TCe 140ch FAP Intens EDC -21,Essence M /,40 930 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,70 900 €
+PEUGEOT,2008,1.2 PureTech 110ch Allure S&S,Essence /,78 801 km,/ 2015 /,Manuelle,1,1,1,1,1,0,0,70 900 €
+DACIA,Spring,Business 2020 - Achat Intégral,Electrique /,26 446 km,/ 2021 /,Automatique,1,0,0,1,0,0,1,70 900 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure Pack,Essence /,10 456 km,/ 2022 /,Manuelle,1,1,1,1,1,0,1,70 900 €
+RENAULT,Clio,1.0 TCe 90ch Evolution,Essence /,10 737 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,70 900 €
+PEUGEOT,508,PureTech 180ch S&S GT Line EAT8 10cv,Essence /,35 053 km,/ 2020 /,Automatique,1,0,1,0,1,0,0,70 900 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,8 634 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,70 900 €
+RENAULT,Express,1.3 TCe 100ch Essentiel 22,Essence /,1 km,/ 2023 /,Manuelle,0,0,1,0,0,0,0,70 900 €
+PEUGEOT,208,e-208 136ch Allure,Electrique /,65 367 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,70 900 €
+PEUGEOT,Partner,Standard 650kg BlueHDi 100ch S&S BVM5 Asphalt,Diesel /,34 662 km,/ 2020 /,Manuelle,0,0,1,1,0,1,1,70 900 €
+MERCEDES,Gla,200 d 150ch AMG Line 8G-DCT,Diesel /,31 704 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,39 490 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Techno esprit Alpine,Hybride /,10 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+BMW,X1,ixDrive30 313ch M Sport,Electrique /,9 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,39 490 €
+RENAULT,Megane,1.0 TCe 115ch FAP Business -21B,Essence /,30 545 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,39 490 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,10 104 km,/ 2022 /,Manuelle,0,1,1,1,1,0,1,39 490 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Pack,Essence /,47 100 km,/ 2022 /,Manuelle,0,0,1,1,1,0,0,39 490 €
+CITROEN,C5 X,Hybrid 225ch Shine Pack ëEAT8,Hybride /,20 000 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,39 490 €
+PEUGEOT,208,1.6 BlueHDi 100ch S&S Premium Euro6c,Diesel /,51 716 km,/ 2019 /,Manuelle,0,0,1,1,0,0,0,39 490 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+CITROEN,C5 Aircross,BlueHDi 130ch S&S C-Series EAT8,Diesel /,7 662 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+AUDI,Q3,2.0 TDI 150ch ultra Ambiente,Diesel /,92 233 km,/ 2016 /,Manuelle,1,0,1,1,1,0,1,39 490 €
+RENAULT,Megane Estate,1.5 Blue dCi 115ch Techno EDC -23,Diesel /,22 865 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Iconic esprit Alpine- 23,Hybride /,580 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+PEUGEOT,3008,1.2 PureTech 130ch S&S GT EAT8,Essence /,6 168 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,11 823 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,39 490 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,12 995 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,39 490 €
+MERCEDES,Classe Sl,63 AMG 585ch 4Matic+ 9G Speedshift MCT AMG,Essence /,2 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,0,39 490 €
+DACIA,Spring,Business 2020 - Achat Intégral,Electrique /,10 564 km,/ 2020 /,Automatique,1,0,0,1,0,0,1,39 490 €
+DACIA,Sandero,1.0 ECO-G 100ch Stepway Confort,Gpl /,69 029 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,39 490 €
+PEUGEOT,2008,1.2 PureTech 130ch E6.c Allure S&S EAT6 6cv,Essence /,68 237 km,/ 2019 /,Automatique,1,1,1,0,1,1,1,39 490 €
+CITROEN,C4,Moteur électrique 136ch (100 kW) Shine Automatique,Electrique /,9 500 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,39 490 €
+VOLKSWAGEN,T-Roc,1.5 TSI EVO 150ch R-Line DSG7,Essence /,100 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,39 490 €
+SKODA,Fabia,1.0 MPI 80ch Ambition,Essence /,22 152 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,39 490 €
+PEUGEOT,3008,HYBRID4 300ch GT Pack e-EAT8,Hybride /,59 000 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,39 490 €
+TOYOTA,Rav4,197 Hybride Lounge 2WD CVT,Hybride /,62 779 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,39 490 €
+NISSAN,Qashqai,1.3 Mild Hybrid 158ch Tekna+ Xtronic,Essence M /,45 535 km,/ 2021 /,Automatique,0,0,0,0,0,0,0,39 490 €
+VOLKSWAGEN,T-Cross,1.0 TSI 110ch Carat DSG7,Essence /,46 889 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,39 490 €
+MERCEDES,Classe B,250 e 160+102ch AMG Line Edition 8G-DCT,Hybride R /,33 729 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,39 490 €
+FORD,Focus,1.0 Flexifuel mHEV 125ch ST-Line X Powershift,Essence M /,5 000 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,39 490 €
+RENAULT,Clio,0.9 TCe 90ch LIMITED 5p Euro6c,Essence /,27 326 km,/ 2019 /,Manuelle,1,0,1,0,0,0,0,39 490 €
+FORD,Ka,1.2 69ch Stop&Start Titanium MY2014,Essence /,33 877 km,/ 2016 /,Manuelle,1,0,0,0,0,0,0,8 499 €
+RENAULT,Espace,1.6 TCe 200ch energy Initiale Paris EDC,Essence /,91 830 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,8 499 €
+OPEL,Grandland,1.5 D 130ch GS Line BVA8,Diesel /,5 000 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,8 499 €
+MERCEDES,Classe A,180 136ch Style Line 7G-DCT,Essence /,70 649 km,/ 2019 /,Automatique,1,1,1,1,1,1,0,8 499 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21N,Essence /,25 204 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,8 499 €
+BMW,Serie 3,320iA xDrive 184ch M Sport,Essence /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,0,1,8 499 €
+BMW,X1,sDrive18iA 140ch M Sport DKG7 Euro6c,Essence /,57 693 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,8 499 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,10 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,8 499 €
+RENAULT,Captur,1.0 TCe 90ch Business -21,Essence /,29 720 km,/ 2021 /,Manuelle,1,1,1,1,0,1,1,8 499 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens EDC,Essence /,33 142 km,/ 2019 /,Automatique,0,1,1,1,1,0,1,8 499 €
+NISSAN,Leaf,150ch 40kWh Acenta 21.5,Electrique /,20 148 km,/ 2021 /,Automatique,1,0,1,1,1,1,0,8 499 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,25 781 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,8 499 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,13 494 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,8 499 €
+MERCEDES,Gle,350 d 272ch AMG Line 4Matic 9G-Tronic,Diesel /,64 913 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,8 499 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,9 856 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,8 499 €
+VOLVO,Xc60,T6 AWD 253 + 145ch Inscription Luxe Geartronic,Hybride R /,84 611 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,8 499 €
+PEUGEOT,2008,1.5 BlueHDi 130ch S&S GT Line EAT8 7cv,Diesel /,62 350 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,8 499 €
+RENAULT,Zoe,Zen charge normale R90,Electrique /,71 168 km,/ 2016 /,Automatique,1,0,1,1,1,0,0,8 499 €
+VOLKSWAGEN,Golf,1.5 eTSI OPF 150ch R-Line DSG7,Essence M /,100 km,/ 2024 /,Automatique,1,1,1,1,1,0,1,8 499 €
+MERCEDES,Cla Shooting Brake,200 d Sensation 7G-DCT,Diesel /,116 467 km,/ 2016 /,Automatique,1,1,1,1,1,1,0,8 499 €
+RENAULT,Arkana,1.6 E-Tech 145ch full hybrid esprit Alpine -23,Hybride /,9 999 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,8 499 €
+RENAULT,Captur,1.2 TCe 120ch energy Initiale Paris,Essence /,82 064 km,/ 2018 /,Manuelle,0,1,1,1,1,1,1,8 499 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active,Essence /,53 799 km,/ 2020 /,Manuelle,1,0,1,1,0,0,1,8 499 €
+PEUGEOT,308,1.2 PureTech 130ch €6.c S&S Allure,Essence /,65 001 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,8 499 €
+MERCEDES,Classe B,180 136ch Style Line Edition 7G-DCT 7cv,Essence /,16 811 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,8 499 €
+RENAULT,Zoe,Intens charge normale R110 Achat Intégral,Electrique /,28 407 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,8 499 €
+RENAULT,Clio,1.0 TCe 90ch Intens -21,Essence /,32 918 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,8 499 €
+NISSAN,X-Trail,dCi 150ch Tekna Euro6d-T,Diesel /,62 542 km,/ 2019 /,Manuelle,0,0,1,1,1,1,1,8 499 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,84 778 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,8 499 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine E6.d,Diesel /,17 510 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,8 499 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine E6.d,Diesel /,17 510 km,/ 2022 /,Manuelle,0,0,1,1,1,0,1,16 489 €
+PEUGEOT,208,e-208 136ch Allure,Electrique /,41 149 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,16 489 €
+TOYOTA,Yaris,120 VVT-i Design 5p,Essence /,35 703 km,/ 2020 /,Manuelle,1,1,1,1,1,1,0,16 489 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S Allure Pack EAT8,Diesel /,20 449 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,16 489 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure,Essence /,50 788 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,16 489 €
+MINI,Mini,Cooper S 192ch Heddon Street Euro6d-T,Essence /,97 292 km,/ 2019 /,Manuelle,0,0,1,1,1,1,1,16 489 €
+NISSAN,Juke,1.0 DIG-T 114ch Business+ DCT 2021.5,Essence /,33 572 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,16 489 €
+CITROEN,C4,PureTech 100ch S&S Feel,Essence /,16 772 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,16 489 €
+CITROEN,C3,1.2 PureTech 110ch S&S ELLE,Essence /,5 600 km,/ 2022 /,Manuelle,0,0,1,1,1,1,1,16 489 €
+RENAULT,Arkana,1.3 TCe 140ch FAP Intens EDC -21B,Essence M /,59 292 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,16 489 €
+PORSCHE,Cayenne Coupe,3.0 V6 462ch E-Hybrid,Hybride R /,54 418 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,16 489 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,15 017 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,16 489 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,9 562 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,16 489 €
+BMW,I3,170ch 94Ah REx +CONNECTED Atelier,Electrique /,27 097 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,16 489 €
+NISSAN,X-Trail,1.6 dCi 130ch Tekna Euro6,Diesel /,136 165 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,16 489 €
+RENAULT,Grand Scenic,1.7 Blue dCi 120ch Business 7 places,Diesel /,48 343 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,16 489 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure Pack,Essence /,67 249 km,/ 2021 /,Manuelle,0,0,1,1,1,1,1,16 489 €
+CITROEN,C5 Aircross,PureTech 130ch S&S Feel E6.d-TEMP,Essence /,83 646 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,16 489 €
+CITROEN,C5 Aircross,PureTech 130ch S&S Shine,Essence /,36 028 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,16 489 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT Line EAT8 7cv,Essence /,46 742 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,16 489 €
+CITROEN,C5 X,Hybride rechargeable 225ch Shine Pack ëEAT8,Hybride R /,11 800 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,16 489 €
+DACIA,Sandero,1.0 ECO-G 100ch Confort -22,Gpl /,20 359 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,16 489 €
+RENAULT,Grand Scenic,1.5 dCi 110ch energy Bose eco² 5 places,Diesel /,82 500 km,/ 2014 /,Manuelle,1,0,1,1,1,0,0,16 489 €
+MERCEDES,Classe E,300 de 194+122ch AMG Line 9G-Tronic,Hybride R /,11 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,16 489 €
+PEUGEOT,208,1.2 PureTech 82ch Allure 5p,Essence /,38 826 km,/ 2018 /,Manuelle,1,0,1,0,1,0,1,16 489 €
+PEUGEOT,208,e-208 136ch Active Business,Electrique /,26 158 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,16 489 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2 E6U,Diesel /,86 159 km,/ 2021 /,Manuelle,1,0,1,1,1,1,1,16 489 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT Line EAT8 7cv,Essence /,49 913 km,/ 2021 /,Automatique,1,1,1,1,1,0,0,16 489 €
+CITROEN,C3 Aircross,PureTech 110ch S&S Feel,Essence /,22 700 km,/ 2022 /,Manuelle,1,1,1,1,0,0,0,16 489 €
+MERCEDES,Cla,220 d Fascination 7G-DCT,Diesel /,109 516 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,16 489 €
+PEUGEOT,308 Sw,1.5 BlueHDi 100ch E6.c S&S Style,Diesel /,64 000 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,14 799 €
+PEUGEOT,3008,1.6 BlueHDi 120ch Allure S&S,Diesel /,125 076 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,14 799 €
+CITROEN,Berlingo Van,M 650kg BlueHDi 100 S&S Driver,Diesel /,15 300 km,/ 2022 /,Manuelle,0,0,1,1,0,1,1,14 799 €
+SKODA,Octavia,1.5 TSI ACT MHEV e-TEC 150ch Business DSG7 Euro6d-AP,Essence M /,30 705 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,14 799 €
+LEXUS,Nx,450h+ 4WD Executive,Hybride R /,14 980 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,14 799 €
+PEUGEOT,2008,1.5 BlueHDi 110ch S&S Allure Pack,Diesel /,76 017 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,14 799 €
+MERCEDES,Classe B,180 136ch Style Line Edition 7G-DCT 7cv,Essence /,67 822 km,/ 2019 /,Automatique,1,1,1,1,1,1,0,14 799 €
+PEUGEOT,3008,Plug-in Hybrid 225ch Allure Pack e-EAT8,Hybride R /,5 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,14 799 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,5 855 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,14 799 €
+PEUGEOT,208,e-208 136ch Active,Electrique /,29 947 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,14 799 €
+FIAT,Ducato,3.5 MH2 2.3 Multijet 150ch Pack Pro Nav,Diesel /,89 335 km,/ 2019 /,Manuelle,0,0,1,1,0,1,1,14 799 €
+RENAULT,Megane Estate,1.5 Blue dCi 115ch Techno EDC -23,Diesel /,20 205 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,14 799 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,3 937 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,14 799 €
+RENAULT,Express,1.5 Blue dCi 95ch Confort,Diesel /,38 023 km,/ 2021 /,Manuelle,0,0,1,0,0,0,0,14 799 €
+CITROEN,C5 Aircross,BlueHDi 130ch S&S Shine Pack EAT8,Diesel /,9 300 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,14 799 €
+FORD,Puma,1.0 EcoBoost 125ch mHEV ST-Line 6cv,Essence M /,46 655 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,14 799 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,13 669 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,14 799 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Style,Essence /,16 529 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,14 799 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S GT,Diesel /,14 134 km,/ 2022 /,Manuelle,0,0,1,1,1,1,1,14 799 €
+CITROEN,C3 Aircross,PureTech 82ch Feel E6.d-TEMP,Essence /,102 651 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,14 799 €
+RENAULT,Captur,1.3 TCe 130ch FAP Intens EDC,Essence /,54 315 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,14 799 €
+RENAULT,Captur,1.5 dCi 90ch energy Intens EDC Euro6c,Diesel /,60 757 km,/ 2019 /,Automatique,1,1,1,1,1,0,1,14 799 €
+FORD,Transit Connect,L1 1.5 EcoBlue 75ch Trend,Diesel /,49 700 km,/ 2021 /,Manuelle,1,0,0,1,0,0,0,14 799 €
+DACIA,Duster,1.0 TCe 100ch Essentiel 121g 4x2 - 19,Essence /,53 944 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,14 799 €
+DS,Ds 3 Crossback,PureTech 130ch Performance Line + Automatique 109g,Essence /,45 868 km,/ 2020 /,Automatique,1,0,1,1,1,0,1,14 799 €
+NISSAN,Qashqai,1.3 DIG-T 160ch Tekna DCT 2019,Essence /,89 664 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,14 799 €
+TOYOTA,C-Hr,1.8 Hybride 122ch Dynamic E-CVT,Hybride /,21 952 km,/ 2023 /,Automatique,1,1,1,1,1,1,0,14 799 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Like,Essence /,40 000 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,14 799 €
+SKODA,Kamiq,1.0 TSI Evo 110ch Business DSG7,Essence /,13 176 km,/ 2022 /,Automatique,1,1,1,1,1,0,1,14 799 €
+DACIA,Jogger,1.0 ECO-G 100ch Extreme+ 5 places,Gpl /,21 329 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,14 799 €
+RENAULT,Clio,1.0 TCe 100ch RS Line X-Tronic,Essence /,8 450 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,18 599 €
+RENAULT,Captur,1.3 TCe mild hybrid 140ch Techno,Essence M /,12 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,18 599 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,13 331 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,18 599 €
+RENAULT,Scenic,1.7 Blue dCi 120ch Trend,Diesel /,27 111 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,18 599 €
+MG,Ehs,1.5T GDI 258ch PHEV Comfort,Hybride R /,50 248 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,18 599 €
+DS,Ds 7 Crossback,E-TENSE 225ch Rivoli,Hybride R /,52 203 km,/ 2021 /,Automatique,1,0,0,0,1,1,0,18 599 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch €6.c S&S GT Line,Essence /,73 312 km,/ 2018 /,Manuelle,0,1,1,1,1,1,1,18 599 €
+MERCEDES,Citan,110 CDI Long Pro 5cv,Diesel /,3 040 km,/ 2023 /,Manuelle,0,1,0,0,0,0,1,18 599 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,12 813 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,18 599 €
+LEXUS,Nx,450h+ 4WD Executive MY24,Hybride R /,9 500 km,/ 2024 /,Automatique,0,1,1,1,1,0,1,18 599 €
+PEUGEOT,2008,1.2 PureTech 82ch Active,Essence /,81 975 km,/ 2016 /,Manuelle,1,1,1,0,0,0,0,18 599 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Confort,Essence /,37 167 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,18 599 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active Business,Essence /,21 801 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,18 599 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Business EAT8 7cv,Essence /,40 910 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,18 599 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch S&S Allure,Essence /,15 872 km,/ 2023 /,Manuelle,1,1,1,0,1,1,1,18 599 €
+TOYOTA,Yaris,116h Design 5p,Hybride /,20 992 km,/ 2020 /,Automatique,1,1,1,1,1,1,0,18 599 €
+MERCEDES,Classe B,180 136ch Style Line Edition 7cv,Essence /,56 173 km,/ 2019 /,Manuelle,1,1,1,1,1,1,0,18 599 €
+NISSAN,Micra,1.0 IG-T 100ch Acenta 2020,Essence /,23 609 km,/ 2021 /,Manuelle,1,0,1,1,0,0,0,18 599 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,15 500 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,18 599 €
+RENAULT,Megane,E-Tech Electric EV40 130ch Equilibre standard charge,Electrique /,15 555 km,/ 2022 /,Automatique,1,1,1,1,0,1,1,18 599 €
+CITROEN,Berlingo,PureTech 110ch Shine S&S,Essence /,78 800 km,/ 2017 /,Manuelle,1,0,1,1,1,0,0,18 599 €
+CITROEN,Berlingo,PureTech 110ch Shine S&S,Essence /,78 800 km,/ 2017 /,Manuelle,1,0,1,1,1,0,0,18 599 €
+FORD,Explorer,3.0 EcoBoost 457ch Parallel PHEV Platinum i-AWD BVA10 25cv,Hybride R /,3 500 km,/ 2023 /,Automatique,0,0,1,1,1,0,1,18 599 €
+CITROEN,C3,1.5 BlueHDi 100ch S&S Shine Business,Diesel /,67 197 km,/ 2020 /,Manuelle,0,0,1,1,1,0,1,18 599 €
+MINI,Mini,Cooper SE 184ch Edition Camden BVA 5CV,Electrique /,51 499 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,18 599 €
+LEXUS,Ux,250h 2WD Luxe MY21,Hybride /,41 445 km,/ 2020 /,Automatique,1,1,1,1,1,1,1,18 599 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,8 749 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,18 599 €
+RENAULT,Kadjar,1.2 TCe 130ch energy Intens EDC,Essence /,74 831 km,/ 2017 /,Automatique,0,1,1,1,1,1,1,18 599 €
+PEUGEOT,2008,1.2 PureTech 110ch Allure S&S EAT6,Essence /,82 421 km,/ 2016 /,Automatique,1,1,1,0,1,0,1,18 599 €
+MINI,Cabrio,Cooper S 178ch Essential BVA7,Essence /,100 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,18 599 €
+RENAULT,Master,F3500 L2H2 2.3 dCi 135ch Grand Confort E6,Diesel /,90 004 km,/ 2020 /,Manuelle,0,0,1,1,0,0,0,21 999 €
+DACIA,Duster,1.0 ECO-G 100ch Access 4x2 - E6U,Gpl /,81 780 km,/ 2020 /,Manuelle,1,0,0,0,0,0,0,21 999 €
+VOLVO,Xc90,T8 Twin Engine 320 + 87ch Inscription Luxe Geartronic 7 places,Hybride R /,148 637 km,/ 2016 /,Automatique,0,0,1,1,1,1,1,21 999 €
+RENAULT,Trafic Spacenomad,2.0 Blue dCi 150ch Equilibre EDC,Diesel /,1 667 km,/ 2023 /,Automatique,1,1,1,1,0,0,1,21 999 €
+RENAULT,Twingo,Electric Vibes R80 Achat Intégral,Electrique /,28 424 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,21 999 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch S&S GT EAT8,Essence /,9 520 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,21 999 €
+RENAULT,Arkana,1.6 E-Tech 145ch Zen,Hybride /,19 633 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,21 999 €
+RENAULT,Grand Scenic,1.7 Blue dCi 120ch Intens EDC,Diesel /,83 742 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,21 999 €
+PEUGEOT,208,e-208 136ch E-Style,Electrique /,7 000 km,/ 2024 /,Automatique,1,1,1,1,1,0,1,21 999 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Active Pack,Essence /,7 477 km,/ 2022 /,Manuelle,1,0,1,1,0,0,1,21 999 €
+PEUGEOT,508 Sw,HYBRID 225ch GT e-EAT8,Hybride R /,68 379 km,/ 2021 /,Automatique,1,0,1,0,1,1,1,21 999 €
+PEUGEOT,3008,HYBRID4 300ch GT e-EAT8 11cv,Hybride R /,79 645 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,21 999 €
+MINI,Mini,Cooper SD 170ch Seven BVA8 109g,Diesel /,73 288 km,/ 2018 /,Automatique,1,1,1,1,1,0,1,21 999 €
+RENAULT,Clio,1.0 TCe 90ch Evolution,Essence /,29 914 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,21 999 €
+TOYOTA,Yaris,116h France 5p,Hybride /,44 204 km,/ 2021 /,Automatique,1,0,1,1,1,0,0,21 999 €
+RENAULT,Arkana,1.6 E-Tech 145ch full hybrid Techno -23,Hybride /,9 990 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,21 999 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Allure Pack 118g,Essence /,20 009 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,21 999 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Techno super charge,Electrique /,10 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,21 999 €
+MERCEDES,Classe B,220d 190ch AMG Line Edition 8G-DCT 10cv,Diesel /,59 981 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,21 999 €
+SUZUKI,Celerio,1.0 VVT 68ch Privilège Euro6d-T,Essence /,34 200 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,21 999 €
+CITROEN,C5 Aircross,BlueHDi 130ch S&S Feel EAT8,Diesel /,132 799 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,21 999 €
+RENAULT,Clio,1.0 TCe 100ch Intens GPL -21,Gpl /,23 020 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,21 999 €
+DACIA,Logan Mcv,1.5 Blue dCi 95ch Stepway,Diesel /,85 105 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,21 999 €
+KIA,Ceed,1.0 T-GDI 120ch GT Line MY20,Essence /,61 990 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,21 999 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active Business,Essence /,29 993 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,21 999 €
+RENAULT,Zoe,Zen charge normale R90 MY19,Electrique /,53 065 km,/ 2018 /,Automatique,1,0,1,1,1,0,0,21 999 €
+DS,Ds 7 Crossback,PureTech 225ch Performance Line + Automatique,Essence /,35 994 km,/ 2019 /,Automatique,1,0,0,0,1,1,0,21 999 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Iconic optimum charge -C,Electrique /,5 000 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,21 999 €
+PEUGEOT,208,1.5 BlueHDi 100ch S&S Active,Diesel /,67 898 km,/ 2022 /,Manuelle,1,0,1,1,0,0,0,21 999 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Expression,Essence /,6 684 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,21 999 €
+VOLKSWAGEN,Tiguan,1.4 eHybrid 245ch R-Line DSG6,Hybride R /,8 000 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,47 900 €
+RENAULT,Captur,1.2 TCe 120ch Stop&Start energy Intens Euro6 2016,Essence /,104 859 km,/ 2016 /,Manuelle,1,0,1,1,1,0,0,47 900 €
+FIAT,500l,1.3 Multijet 16v 95ch S&S Hey Google MY21,Diesel /,35 193 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,47 900 €
+MERCEDES,Eqa,250+ 190ch AMG Line,Electrique /,10 000 km,/ 2024 /,Automatique,0,0,1,1,1,1,1,47 900 €
+SEAT,Arona,1.0 EcoTSI 95ch Start/Stop Urban Sport Line Euro6d-T,Essence /,26 713 km,/ 2020 /,Manuelle,1,1,1,1,0,1,1,47 900 €
+CITROEN,C5 Aircross,Hybrid 225ch C-Series e-EAT8,Hybride R /,33 086 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,47 900 €
+PEUGEOT,Partner,M 650kg BlueHDi 100ch S&S Cabine Multiflex 3 places Pack Asphalt Connect,Diesel /,800 km,/ 2023 /,Manuelle,0,0,1,1,0,1,1,47 900 €
+PEUGEOT,Partner,Standard 650kg BlueHDi 100ch S&S BVM5 Asphalt,Diesel /,76 499 km,/ 2020 /,Manuelle,0,0,1,1,0,1,1,47 900 €
+FIAT,Panda,1.0 70ch BSG S&S City Cross,Essence M /,18 373 km,/ 2021 /,Manuelle,1,0,0,1,1,0,0,47 900 €
+BMW,X1,xDrive25eA 220ch xLine,Hybride R /,52 384 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,47 900 €
+PEUGEOT,2008,1.5 BlueHDi 110ch S&S Allure Pack,Diesel /,72 700 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,47 900 €
+DS,Ds 7 Crossback,BlueHDi 180ch Grand Chic Automatique,Diesel /,125 304 km,/ 2020 /,Automatique,1,0,0,0,1,1,0,47 900 €
+OPEL,Corsa,1.2 Turbo 100ch Elegance Business,Essence /,11 452 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,47 900 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure Pack EAT8,Essence /,6 287 km,/ 2023 /,Automatique,1,1,1,1,1,0,1,47 900 €
+FORD,Puma,1.0 Flexifuel 125ch S&S mHEV Titanium,Essence B /,13 718 km,/ 2021 /,Manuelle,1,0,1,1,0,0,1,47 900 €
+OPEL,Corsa,1.2 75ch Edition Business,Essence /,35 351 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,47 900 €
+MINI,Mini,Cooper SE 184ch Edition Premium Plus BVA 5CV,Electrique /,18 432 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,47 900 €
+PEUGEOT,208,1.5 BlueHDi 100 Allure Pack Carplay Caméra 27100Kms Gtie 1an,Diesel /,27 100 km,/ 2021 /,Manuelle,0,1,1,1,1,0,1,47 900 €
+TOYOTA,Corolla,184h Collection MY19,Hybride /,73 609 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,47 900 €
+RENAULT,Talisman Estate,1.6 dCi 130ch energy Initiale Paris,Diesel /,73 791 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,47 900 €
+CITROEN,C5 Aircross,Hybrid 225ch Business e-EAT8,Hybride R /,98 816 km,/ 2021 /,Automatique,1,0,1,1,1,1,1,47 900 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2 E6U,Diesel /,53 892 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,47 900 €
+RENAULT,Megane,1.5 Blue dCi 115ch Techno EDC -23,Diesel /,20 150 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,47 900 €
+MERCEDES,Classe A Berline,250 e 160+102ch AMG Line 8G-DCT 8cv,Hybride R /,51 000 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,47 900 €
+VOLVO,Xc60,T6 AWD 253 + 87ch Inscription Geartronic,Hybride R /,49 107 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,47 900 €
+OPEL,Astra Sports Tourer,1.2 Turbo 130ch Elegance Business 7cv,Essence /,53 692 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,47 900 €
+RENAULT,Master,F3300 L2H2 2.3 Blue dCi 135ch Grand Confort Euro6E,Diesel /,200 km,/ 2023 /,Manuelle,0,0,1,0,0,0,1,47 900 €
+FORD,Ecosport,1.0 EcoBoost 125ch ST-Line,Essence /,31 625 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,47 900 €
+RENAULT,Megane Estate,1.6 E-Tech Plug-in 160ch Intens,Hybride R /,46 993 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,47 900 €
+CITROEN,C3,1.2 PureTech 83ch S&S Feel Pack,Essence /,17 518 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,47 900 €
+NISSAN,Juke,1.0 DIG-T 117ch N-Connecta,Essence /,43 437 km,/ 2020 /,Manuelle,0,1,1,1,1,1,1,16 990 €
+RENAULT,Clio,1.6 E-Tech 140ch Business -21,Hybride /,54 600 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,16 990 €
+HYUNDAI,I10,1.2 87ch Edition #Mondial 2019 Euro6d-Temp EVAP,Essence /,52 091 km,/ 2019 /,Manuelle,1,0,1,1,0,0,0,16 990 €
+RENAULT,Captur,1.6 E-Tech hybride rechargeable 160ch Intens -21,Hybride R /,25 097 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,16 990 €
+PEUGEOT,308 Sw,1.5 BlueHDi 130ch S&S Style,Diesel /,134 108 km,/ 2018 /,Manuelle,1,0,1,1,1,0,1,16 990 €
+CITROEN,C4,PureTech 130ch Millenium S&S,Essence /,53 452 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,16 990 €
+AUDI,E-Tron,55 408ch Avus Extended e-quattro 9cv,Electrique /,63 617 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,16 990 €
+SKODA,Octavia Combi,2.0 TDI 150ch Style 4x4 DSG7 Euro6d-AP,Diesel /,77 215 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,16 990 €
+KIA,Niro,1.6 GDi 105ch ISG + électrique 43.5ch Active DCT6 Euro6d-T,Hybride /,59 439 km,/ 2018 /,Automatique,1,0,1,1,1,1,1,16 990 €
+PEUGEOT,208,1.2 PureTech 100ch S&S GT Line EAT8,Essence /,49 434 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,16 990 €
+RENAULT,Kadjar,1.5 Blue dCi 115ch Intens EDC - 21,Diesel /,58 500 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,16 990 €
+CITROEN,C4,PureTech 130ch Shine S&S,Essence /,76 618 km,/ 2017 /,Manuelle,1,0,1,1,1,0,1,16 990 €
+BMW,X5,xDrive45e 394ch M Sport,Hybride R /,78 502 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,16 990 €
+RENAULT,Espace,1.2 E-Tech full hybrid 200ch Iconic,Hybride /,11 252 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,16 990 €
+PEUGEOT,208,e-208 136ch GT,Electrique /,22 250 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,16 990 €
+VOLKSWAGEN,T-Cross,1.0 TSI 110ch Active DSG7,Essence /,43 826 km,/ 2021 /,Automatique,1,0,1,1,0,1,1,16 990 €
+BMW,X5,xDrive50e 489ch M Sport,Hybride R /,17 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,16 990 €
+PEUGEOT,408,PHEV 225ch Allure Pack e-EAT8,Hybride /,14 723 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,16 990 €
+DS,Ds 3 Crossback,BlueHDi 100ch So Chic,Diesel /,45 621 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,16 990 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,11 823 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,16 990 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta 2022,Essence M /,37 788 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,16 990 €
+PEUGEOT,3008,1.5 BlueHDi 130ch E6.c GT Line S&S EAT8,Diesel /,122 912 km,/ 2019 /,Automatique,0,1,1,1,1,0,1,16 990 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,11 326 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,16 990 €
+DACIA,Spring,Confort Plus - Achat Intégral,Electrique /,18 140 km,/ 2022 /,Automatique,1,0,0,1,0,1,1,16 990 €
+VOLKSWAGEN,E-Up!,Electrique 83ch e-up!,Electrique /,9 000 km,/ 2023 /,Automatique,1,0,0,1,1,0,0,16 990 €
+MITSUBISHI,Space Star,1.2 MIVEC 71ch Red Line EDITION CVT 2024,Essence /,8 000 km,/ 2023 /,Automatique,1,0,1,1,1,0,0,16 990 €
+VOLKSWAGEN,Polo,1.0 TSI 95ch Life,Essence /,16 669 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,16 990 €
+TOYOTA,Yaris,116h Design 5p,Hybride /,52 500 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,16 990 €
+RENAULT,Koleos,1.3 TCe 160ch Initiale Paris EDC -B,Essence /,4 266 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,16 990 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,19 659 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,16 990 €
+RENAULT,Arkana,1.3 TCe mild hybrid 160ch RS Line EDC -22,Essence M /,5 765 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,29 480 €
+CITROEN,C5 X,Hybride rechargeable 225ch Shine ëEAT8,Hybride R /,13 343 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,29 480 €
+FORD,Fiesta,1.1 75ch Connect Business Nav 5p,Essence /,41 748 km,/ 2021 /,Manuelle,1,0,1,0,0,0,1,29 480 €
+BMW,I3,170ch 120Ah iLife Atelier,Electrique /,42 371 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,29 480 €
+RENAULT,Express,1.3 TCe 100ch Confort 22,Essence /,12 461 km,/ 2022 /,Manuelle,0,0,1,0,0,0,0,29 480 €
+RENAULT,Captur,1.0 TCe 90ch Techno,Essence /,19 660 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,29 480 €
+PEUGEOT,208,e-208 136ch Like,Electrique /,6 000 km,/ 2023 /,Automatique,1,0,1,1,1,0,0,29 480 €
+DACIA,Spring,Confort Plus - Achat Intégral Caméra 10900Kms Gtie 1an,Electrique /,10 900 km,/ 2023 /,Automatique,1,0,0,1,0,1,1,29 480 €
+MERCEDES,Gla,250 e 160+102ch AMG Line 8G-DCT,Hybride R /,62 438 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,29 480 €
+VOLKSWAGEN,T-Cross,1.0 TSI 115ch Style DSG7,Essence /,15 km,/ 2024 /,Automatique,0,1,1,1,1,1,1,29 480 €
+NISSAN,Micra,1.0 IG-T 92ch Acenta 2021.5,Essence /,33 395 km,/ 2022 /,Manuelle,1,0,1,1,0,0,0,29 480 €
+VOLVO,V40,T2 122ch Inscription 7cv,Essence /,39 211 km,/ 2018 /,Manuelle,1,1,1,1,1,0,0,29 480 €
+BMW,Serie 1,118dA 150ch M Sport 8cv,Diesel /,54 991 km,/ 2021 /,Automatique,0,1,1,1,1,1,0,29 480 €
+OPEL,Mokka,Mokka-e 136ch Elegance Business,Electrique /,5 000 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,29 480 €
+MERCEDES,Classe E,220 d 194ch AMG Line 9G-Tronic Euro6d-T-EVAP-ISC,Diesel /,41 965 km,/ 2019 /,Automatique,0,0,1,1,1,1,1,29 480 €
+MERCEDES,Classe C,200 d 160ch AMG Line 9G-Tronic,Diesel /,66 412 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,29 480 €
+RENAULT,Arkana,1.6 E-Tech hybride 145ch Engineered -22,Hybride /,1 944 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,29 480 €
+MERCEDES,Glc,250 d 204ch Sportline 4Matic 9G-Tronic,Diesel /,109 408 km,/ 2017 /,Automatique,0,1,1,1,1,0,1,29 480 €
+PEUGEOT,3008,HYBRID4 300ch GT e-EAT8,Hybride R /,40 549 km,/ 2020 /,Automatique,0,0,0,0,0,0,0,29 480 €
+RENAULT,Austral,1.2 E-Tech full hybrid 200ch Iconic,Hybride /,24 530 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,29 480 €
+DACIA,Duster,1.5 Blue dCi 115ch Prestige 4x2,Diesel /,55 042 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,29 480 €
+DACIA,Duster,1.5 Blue dCi 115ch Essentiel 4x2,Diesel /,59 299 km,/ 2019 /,Manuelle,1,0,0,1,0,0,0,29 480 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch E6.3 S&S Allure,Essence /,63 000 km,/ 2019 /,Manuelle,1,0,1,1,1,0,1,29 480 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S GT Line,Essence /,30 345 km,/ 2020 /,Manuelle,1,1,1,1,1,0,0,29 480 €
+TOYOTA,Rav4,Hybride 218ch Dynamic Business 2WD MY20,Hybride /,69 469 km,/ 2020 /,Automatique,0,1,1,1,1,1,1,29 480 €
+RENAULT,Megane Estate,1.5 Blue dCi 115ch Business EDC,Diesel /,68 633 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,29 480 €
+RENAULT,Captur,1.2 TCe 120ch energy Intens EDC,Essence /,81 206 km,/ 2017 /,Automatique,1,1,1,1,1,0,1,29 480 €
+SKODA,Octavia Combi,2.0 TSI 245ch RS DSG7 Euro6d-T,Essence /,86 700 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,29 480 €
+RENAULT,Zoe,Zen charge normale R110 Achat Intégral - 20,Electrique /,46 058 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,29 480 €
+SUZUKI,Across,2.5 Hybride Rechargeable 306ch Pack,Hybride R /,100 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,29 480 €
+FIAT,500,0.9 8v TwinAir 85ch S&S Lounge,Essence /,90 715 km,/ 2017 /,Manuelle,1,0,1,1,0,0,1,9 899 €
+CITROEN,Berlingo,M BlueHDi 130ch S&S Shine EAT8,Diesel /,5 600 km,/ 2023 /,Automatique,1,0,1,1,1,0,1,9 899 €
+PEUGEOT,2008,1.2 PureTech 110ch Allure S&S,Essence /,30 050 km,/ 2018 /,Manuelle,1,1,1,0,1,0,1,9 899 €
+NISSAN,Qashqai,1.3 Mild Hybrid 158ch Acenta Xtronic,Essence M /,44 766 km,/ 2021 /,Automatique,1,1,1,1,1,1,1,9 899 €
+TOYOTA,Rav4,Hybride 218ch Lounge 2WD,Hybride /,71 000 km,/ 2019 /,Automatique,0,1,1,1,1,1,1,9 899 €
+RENAULT,Captur,1.2 TCe 120ch energy Intens,Essence /,92 301 km,/ 2017 /,Manuelle,1,1,1,1,1,0,1,9 899 €
+PEUGEOT,308,1.2 PureTech 130ch E6.3 S&S Tech Edition,Essence /,82 800 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,9 899 €
+CITROEN,C4 X,Moteur électrique 136ch (100 kW) Shine Automatique,Electrique /,12 600 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,9 899 €
+RENAULT,Megane,E-Tech Electric EV60 220ch Techno super charge,Electrique /,30 281 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,9 899 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,4 187 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,9 899 €
+LAND-ROVER,Discovery Sport,2.0 D 150ch R-Dynamic SE Mark V,Diesel /,41 113 km,/ 2020 /,Manuelle,0,1,1,1,1,1,1,9 899 €
+PEUGEOT,208,1.2 PureTech 75ch S&S Active,Essence /,21 418 km,/ 2020 /,Manuelle,1,0,1,1,0,0,0,9 899 €
+BMW,I4,M50 544ch,Electrique /,12 946 km,/ 2022 /,Automatique,1,0,1,1,1,1,1,9 899 €
+SEAT,Ibiza,1.0 EcoTSI 95ch Start/Stop Urban,Essence /,53 661 km,/ 2020 /,Manuelle,1,0,1,1,1,0,1,9 899 €
+RENAULT,Clio,1.2 TCe 120ch energy Intens EDC 5p,Essence /,19 319 km,/ 2017 /,Automatique,1,1,1,1,1,0,0,9 899 €
+MITSUBISHI,Eclipse Cross,2.4 MIVEC PHEV 188ch Intense Design 4WD,Hybride R /,18 343 km,/ 2022 /,Automatique,0,1,1,1,1,1,1,9 899 €
+RENAULT,Megane,1.5 Blue dCi 115ch Business -21N,Diesel /,101 703 km,/ 2021 /,Manuelle,1,1,1,1,1,0,1,9 899 €
+RENAULT,Clio,1.6 E-Tech 140ch Business -21,Hybride /,46 676 km,/ 2021 /,Automatique,1,1,1,1,0,0,1,9 899 €
+CITROEN,C3,1.2 PureTech 83ch S&S C-Series 123g,Essence /,30 100 km,/ 2021 /,Manuelle,0,0,1,1,1,0,1,9 899 €
+MERCEDES,Classe E Coupe,220 d 194ch AMG Line 9G-Tronic,Diesel /,7 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,9 899 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,20 999 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,9 899 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Allure,Essence /,100 km,/ 2023 /,Manuelle,1,1,1,1,1,0,1,9 899 €
+PEUGEOT,3008,1.5 BlueHDi 130ch E6.c Allure S&S EAT8,Diesel /,98 638 km,/ 2019 /,Automatique,1,0,1,1,1,0,1,9 899 €
+TOYOTA,Rav4,197 Hybride Lounge AWD CVT,Hybride /,58 317 km,/ 2016 /,Automatique,0,1,1,1,1,1,1,9 899 €
+PORSCHE,Panamera,3.0 V6 560ch 4S E-Hybrid,Hybride R /,10 000 km,/ 2023 /,Automatique,0,1,1,0,1,0,1,9 899 €
+MASERATI,Ghibli,2.0 L4 330ch GranSport,Essence M /,14 300 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,9 899 €
+DACIA,Sandero,1.0 TCe 90ch Stepway Essential,Essence /,19 408 km,/ 2023 /,Manuelle,1,1,1,1,0,0,0,9 899 €
+DACIA,Duster,1.0 ECO-G 100ch Prestige 4x2 - E6U,Gpl /,93 179 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,9 899 €
+PEUGEOT,5008,1.5 BlueHDi 130ch S&S GT Line EAT8,Diesel /,101 215 km,/ 2020 /,Automatique,0,1,1,1,1,0,1,9 899 €
+NISSAN,Qashqai,1.3 Mild Hybrid 140ch N-Connecta + Pack Design,Essence M /,37 048 km,/ 2022 /,Manuelle,0,1,1,1,1,1,1,9 899 €
+DACIA,Sandero,1.5 Blue dCi 95ch Techroad,Diesel /,79 816 km,/ 2019 /,Manuelle,1,0,1,1,1,1,1,12 299 €
+CITROEN,C3,PureTech 82ch Shine S&S E6.d-TEMP,Essence /,23 620 km,/ 2019 /,Manuelle,1,0,1,0,1,0,1,12 299 €
+RENAULT,Zoe,E-Tech Zen charge normale R135 Achat Intégral - 21,Electrique /,55 000 km,/ 2021 /,Automatique,1,1,1,1,1,0,0,12 299 €
+MERCEDES,Classe C,200 184ch AMG Line 9G Tronic,Essence M /,70 050 km,/ 2018 /,Automatique,0,1,1,1,1,1,1,12 299 €
+DACIA,Sandero,0.9 TCe 90ch 15 ans Easy-R,Essence /,44 231 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,12 299 €
+TOYOTA,Auris,HSD 136h Dynamic,Hybride /,102 500 km,/ 2015 /,Automatique,1,0,1,1,1,1,0,12 299 €
+PEUGEOT,2008,1.2 PureTech 155ch S&S GT EAT8,Essence /,91 045 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,12 299 €
+RENAULT,Zoe,Life charge normale Type 2,Electrique /,43 203 km,/ 2016 /,Automatique,1,0,1,1,1,0,0,12 299 €
+CITROEN,C4,PureTech 130ch S&S Feel Pack EAT8,Essence /,29 571 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,12 299 €
+MERCEDES,Classe E Break,220 d 200+20ch AMG Line 9G-Tronic,Diesel M /,45 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,12 299 €
+PEUGEOT,2008,1.2 PureTech 130ch S&S Allure,Essence /,74 631 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,12 299 €
+MERCEDES,Glc Coupe,300 e 211+122ch AMG Line 4Matic 9G-Tronic Euro6d-T-EVAP-ISC,Hybride R /,63 250 km,/ 2020 /,Automatique,1,0,1,1,1,1,1,12 299 €
+RENAULT,Zoe,E-Tech Intens charge normale R110 Achat Integral - 21B,Electrique /,102 617 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,12 299 €
+LEXUS,Rz,450e Executive,Electrique /,4 500 km,/ 2023 /,Automatique,0,0,1,1,1,1,1,12 299 €
+MERCEDES,Classe A Berline,180 d 116ch AMG Line 8G-DCT,Diesel /,9 418 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,12 299 €
+FORD,Galaxy,2.0 EcoBlue 150ch Titanium Business BVA8,Diesel /,109 816 km,/ 2021 /,Automatique,1,0,1,1,1,0,1,12 299 €
+RENAULT,Captur,1.5 dCi 110ch energy Intens,Diesel /,49 601 km,/ 2018 /,Manuelle,1,1,1,1,1,0,1,12 299 €
+BMW,X3,xDrive20dA 190ch M Sport,Diesel /,69 763 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,12 299 €
+CITROEN,C1,VTi 68 Feel 5p,Essence /,47 731 km,/ 2016 /,Manuelle,1,0,0,0,0,0,0,12 299 €
+RENAULT,Arkana,1.6 E-Tech hybride 145ch Engineered -22,Hybride /,9 999 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,12 299 €
+BMW,X5,xDrive45e 394ch M Sport,Hybride R /,83 264 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,12 299 €
+NISSAN,X-Trail,1.6 dCi 130ch N-Connecta,Diesel /,92 767 km,/ 2017 /,Manuelle,0,0,1,1,1,1,1,12 299 €
+TOYOTA,Yaris,69 VVT-i Dynamic 5p,Essence /,105 798 km,/ 2015 /,Manuelle,1,0,0,1,0,1,0,12 299 €
+PEUGEOT,2008,1.2 PureTech 100ch S&S Active 122g,Essence /,81 727 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,12 299 €
+BMW,X3,xDrive20dA 190ch Luxury Euro6c,Diesel /,90 050 km,/ 2018 /,Automatique,0,1,1,1,1,0,1,12 299 €
+FORD,Puma,1.0 EcoBoost 125ch mHEV ST-Line Vignale 6cv,Essence M /,34 963 km,/ 2020 /,Manuelle,0,1,1,1,1,0,1,12 299 €
+CITROEN,C3 Aircross,PureTech 130ch S&S Shine E6.d EAT6 7cv,Essence /,68 858 km,/ 2019 /,Automatique,1,0,1,1,1,0,1,12 299 €
+RENAULT,Zoe,Zen charge normale R110 4cv,Electrique /,34 267 km,/ 2020 /,Automatique,1,1,1,1,1,0,0,12 299 €
+PEUGEOT,3008,1.5 BlueHDi 130ch S&S GT EAT8,Diesel /,10 500 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,12 299 €
+RENAULT,Zoe,Intens charge normale R110 Achat Intégral - 21,Electrique /,23 396 km,/ 2021 /,Automatique,1,1,1,1,1,1,0,12 299 €
+RENAULT,Clio,1.0 SCe 65ch Business -21N,Essence /,24 547 km,/ 2021 /,Manuelle,1,1,1,1,0,0,1,13 049 €
+RENAULT,Clio,1.0 SCe 75ch Business,Essence /,34 586 km,/ 2020 /,Manuelle,1,1,1,1,0,0,1,13 049 €
+NISSAN,Micra,1.0 IG-T 100ch N-Connecta 2019 Euro6-EVAP,Essence /,39 755 km,/ 2020 /,Manuelle,1,0,1,1,1,1,1,13 049 €
+PEUGEOT,308,1.2 PureTech 130ch S&S GT EAT8,Essence /,5 km,/ 2023 /,Automatique,1,1,1,0,1,1,1,13 049 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style,Essence /,2 790 km,/ 2023 /,Manuelle,1,1,1,1,0,0,1,13 049 €
+RENAULT,Captur,1.0 TCe 100ch Evolution GPL,Gpl /,27 284 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,13 049 €
+MERCEDES,Gle,350 e 211+136ch Avantgarde Line 4Matic 9G-Tronic,Hybride R /,74 982 km,/ 2022 /,Automatique,0,0,1,1,1,1,1,13 049 €
+RENAULT,Zoe,Zen charge normale R90 MY19,Electrique /,40 966 km,/ 2019 /,Automatique,1,0,1,1,1,0,0,13 049 €
+RENAULT,Captur,1.5 Blue dCi 95ch AUTO ECOLE,Diesel /,68 073 km,/ 2021 /,Manuelle,1,1,1,1,0,1,1,13 049 €
+NISSAN,Micra,1.0 IG-T 92ch Tekna 2021.5,Essence /,11 403 km,/ 2022 /,Manuelle,1,0,1,1,1,1,1,13 049 €
+FORD,Fiesta,1.0 EcoBoost 100ch Stop&Start Trend 5p,Essence /,52 500 km,/ 2018 /,Manuelle,1,0,1,1,0,0,1,13 049 €
+RENAULT,Captur,1.3 TCe mild hybrid 160ch RS Line EDC,Essence M /,738 km,/ 2023 /,Automatique,0,1,1,1,1,1,1,13 049 €
+KIA,Xceed,1.6 T-GDI 204ch Premium DCT7,Essence /,41 000 km,/ 2020 /,Automatique,0,0,1,1,1,1,1,13 049 €
+PEUGEOT,5008,1.2 PureTech 130ch S&S Allure Pack,Essence /,12 007 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,13 049 €
+PEUGEOT,208,1.2 PureTech 100ch S&S Style 118g,Essence /,11 451 km,/ 2022 /,Manuelle,1,1,1,1,0,0,1,13 049 €
+MINI,Countryman,Cooper SE 136ch + 88ch Longstone ALL4 BVA,Hybride R /,63 359 km,/ 2021 /,Automatique,0,0,1,1,1,1,1,13 049 €
+RENAULT,Clio,1.3 TCe 140ch RS Line,Essence /,2 714 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,13 049 €
+BMW,X1,sDrive18iA 136ch xLine DKG7,Essence /,54 425 km,/ 2021 /,Automatique,0,1,1,1,1,1,1,13 049 €
+RENAULT,Kangoo Express,1.5 dCi 75 Compact Grand Confort,Diesel /,122 920 km,/ 2014 /,Manuelle,0,0,1,0,0,0,0,13 049 €
+RENAULT,Clio,1.0 TCe 90ch Techno,Essence /,8 132 km,/ 2023 /,Manuelle,0,1,1,1,1,1,1,13 049 €
+RENAULT,Clio,1.6 E-Tech 140ch RS Line,Hybride /,53 583 km,/ 2020 /,Automatique,1,1,1,1,1,0,1,13 049 €
+CITROEN,C4 Spacetourer,BlueHDi 150ch S&S Shine,Diesel /,142 097 km,/ 2018 /,Manuelle,1,0,1,1,1,1,1,13 049 €
+HYUNDAI,Ix35,1.7 CRDi 115ch PACK Premium Blue Drive,Diesel /,160 473 km,/ 2015 /,Manuelle,0,0,1,1,1,1,1,13 049 €
+NISSAN,Leaf,150ch 40kWh Acenta 21.5,Electrique /,23 822 km,/ 2022 /,Automatique,1,0,1,1,1,1,0,13 049 €
+PEUGEOT,308 Sw,1.2 PureTech 130ch S&S GT EAT8,Essence /,13 306 km,/ 2022 /,Automatique,1,1,1,0,1,1,1,13 049 €
+BMW,Serie 2 Active Tourer,218iA 136ch Executive,Essence /,78 088 km,/ 2016 /,Automatique,0,1,1,1,1,0,1,13 049 €
+HYUNDAI,I30,1.0 T-GDi 120ch Hybrid 48V Creative,Essence M /,19 383 km,/ 2021 /,Manuelle,0,1,1,1,1,1,1,13 049 €
+BMW,X1,sDrive18dA 150ch xLine,Diesel /,79 253 km,/ 2017 /,Automatique,0,1,1,1,1,0,1,13 049 €
+RENAULT,Captur,1.5 Blue dCi 115ch Intens,Diesel /,46 827 km,/ 2020 /,Manuelle,1,1,1,1,1,0,1,13 049 €
+PEUGEOT,208,e-208 136ch Style,Electrique /,60 078 km,/ 2021 /,Automatique,1,1,1,1,1,0,1,13 049 €
